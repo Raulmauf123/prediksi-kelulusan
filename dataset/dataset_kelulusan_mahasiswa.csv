@@ -1,0 +1,1501 @@
+student_id,age,program_study,learning_method,attendance_pct,assignment_avg,midterm_score,final_score,study_hours_week,previous_gpa,late_submissions,organization_active,graduated_on_time
+STD10000,22,Teknik Industri,Hybrid,85.1,77.1,68.6,81.9,9.4,3.52,3,1,1
+STD10001,24,Informatika,Online,80.3,64.1,59.9,100.0,9.3,2.31,0,1,0
+STD10002,23,Teknik Industri,Tatap Muka,66.2,66.6,66.3,87.1,13.4,2.89,1,1,0
+STD10003,22,Sistem Informasi,Tatap Muka,82.1,52.3,64.1,71.6,60.0,2.39,3,1,0
+STD10004,21,Informatika,Online,71.0,61.8,81.4,56.1,16.8,3.12,0,0,0
+STD10005,19,Teknik Industri,Hybrid,64.7,87.2,68.4,52.9,15.3,3.03,2,0,0
+STD10006,20,Teknik Industri,Hybrid,83.4,,57.2,66.2,17.5,2.86,2,0,0
+STD10007,23,Teknik Industri,Hybrid,86.9,83.7,67.6,62.4,6.4,3.49,3,1,0
+STD10008,18,Informatika,Tatap Muka,87.3,73.9,77.2,61.9,3.5,2.74,1,1,0
+STD10009,18,Sistem Informasi,Hybrid,87.7,69.8,53.4,67.4,12.0,3.15,2,0,0
+STD10010,21,Informatika,Tatap Muka,62.7,63.5,47.0,70.6,26.5,3.37,2,0,0
+STD10011,24,Teknik Industri,Tatap Muka,68.4,99.7,97.9,78.8,18.3,2.33,3,0,1
+STD10012,23,Sistem Informasi,Hybrid,100.0,72.7,61.0,54.7,9.2,2.66,3,1,0
+STD10013,22,Teknik Industri,Hybrid,,100.0,68.1,62.4,14.1,3.02,3,0,0
+STD10014,22,Informatika,Online,88.1,91.7,64.4,69.8,15.6,3.28,3,0,1
+STD10015,18,Informatika,Tatap Muka,75.1,54.1,77.7,69.3,5.2,3.64,3,0,0
+STD10016,20,Sistem Informasi,Tatap Muka,82.8,67.0,94.8,97.7,18.8,2.9,1,0,1
+STD10017,18,Informatika,Online,75.7,67.0,78.1,75.3,11.2,2.86,2,0,0
+STD10018,24,Teknik Industri,Tatap Muka,87.6,74.0,48.7,49.4,11.5,2.61,2,0,0
+STD10019,24,Sistem Informasi,Tatap Muka,83.4,74.3,50.6,77.9,12.1,3.15,1,1,1
+STD10020,20,Teknik Industri,Tatap Muka,77.5,100.0,64.4,79.6,17.7,2.87,0,0,0
+STD10021,20,Informatika,Hybrid,,62.1,66.2,70.2,8.2,2.88,0,1,1
+STD10022,20,Teknik Industri,Online,84.7,77.7,45.9,55.0,3.5,2.96,2,0,0
+STD10023,25,Teknik Industri,Hybrid,69.9,82.4,81.5,96.6,13.6,3.25,1,0,1
+STD10024,21,Teknik Industri,Hybrid,86.3,75.0,54.8,57.0,,2.75,1,0,0
+STD10025,24,Informatika,Tatap Muka,100.0,76.3,90.9,81.3,10.5,2.65,0,0,1
+STD10026,21,Sistem Informasi,Tatap Muka,95.5,62.5,95.5,74.8,17.9,3.19,0,0,1
+STD10027,23,Informatika,Hybrid,89.2,76.3,66.5,80.4,14.9,1.64,3,0,0
+STD10028,22,Informatika,Tatap Muka,81.1,81.1,76.1,95.9,17.2,2.73,3,0,1
+STD10029,20,Sistem Informasi,Tatap Muka,62.6,78.9,52.8,79.9,15.1,2.48,6,0,0
+STD10030,25,Sistem Informasi,Tatap Muka,68.8,81.8,78.7,64.2,24.1,3.54,1,1,1
+STD10031,23,Teknik Industri,Tatap Muka,94.8,92.0,63.0,87.5,,2.8,1,0,0
+STD10032,24,Informatika,Hybrid,74.1,86.2,54.8,63.2,14.0,2.75,1,0,0
+STD10033,25,Informatika,Hybrid,75.0,75.9,65.9,74.3,9.8,2.98,0,0,0
+STD10034,19,Sistem Informasi,Tatap Muka,80.3,60.9,63.5,53.9,16.8,2.73,2,0,0
+STD10035,18,Informatika,Hybrid,71.4,67.8,65.4,57.5,11.7,2.82,4,1,0
+STD10036,22,Informatika,Hybrid,69.7,72.4,83.3,72.7,20.6,3.04,0,0,1
+STD10037,20,Sistem Informasi,Hybrid,81.5,78.0,59.0,77.2,9.3,2.81,2,1,1
+STD10038,21,Informatika,Online,73.1,69.3,94.3,48.2,19.0,2.81,2,1,1
+STD10039,19,Sistem Informasi,Tatap Muka,74.6,63.8,51.4,79.0,15.0,2.55,1,0,1
+STD10040,21,Informatika,Online,74.2,60.7,92.6,60.5,60.0,2.48,0,0,0
+STD10041,21,Teknik Industri,Tatap Muka,87.2,,55.8,89.9,14.7,3.03,5,1,0
+STD10042,20,Sistem Informasi,Tatap Muka,79.7,72.2,70.0,67.1,13.3,3.14,1,1,0
+STD10043,23,Informatika,Tatap Muka,80.2,57.4,63.1,56.3,13.8,2.36,3,0,0
+STD10044,22,Teknik Industri,Hybrid,88.0,63.0,65.2,73.1,11.0,3.34,0,0,0
+STD10045,21,Teknik Industri,Tatap Muka,80.6,70.3,81.2,59.2,8.5,3.34,4,0,0
+STD10046,18,Informatika,Tatap Muka,79.2,59.0,91.0,89.8,10.3,3.44,3,1,0
+STD10047,22,Informatika,Hybrid,86.7,79.6,86.7,72.0,3.6,3.13,2,1,1
+STD10048,19,Sistem Informasi,Tatap Muka,88.7,83.9,64.3,69.9,16.2,3.29,0,0,1
+STD10049,20,Informatika,Tatap Muka,80.5,68.4,72.6,80.3,5.8,,1,0,0
+STD10050,21,Informatika,Tatap Muka,82.8,69.8,59.1,57.9,10.9,2.86,4,1,0
+STD10051,19,Informatika,Tatap Muka,74.2,81.4,56.1,54.0,15.2,2.53,1,1,0
+STD10052,21,Teknik Industri,Tatap Muka,73.4,66.4,54.0,77.7,16.2,2.31,1,0,0
+STD10053,20,Sistem Informasi,Tatap Muka,89.7,65.6,63.9,56.6,3.1,3.79,0,0,0
+STD10054,24,Sistem Informasi,Tatap Muka,86.4,89.4,73.5,56.6,11.5,3.8,0,0,1
+STD10055,24,Teknik Industri,Hybrid,86.6,85.6,43.2,83.7,14.3,2.58,0,0,1
+STD10056,18,Sistem Informasi,Online,84.8,82.2,69.4,79.4,12.3,2.67,5,0,0
+STD10057,22,Sistem Informasi,Hybrid,82.5,,91.2,54.4,18.7,2.85,4,0,0
+STD10058,23,Informatika,Hybrid,89.0,51.3,85.7,63.3,7.9,3.55,3,1,1
+STD10059,21,Informatika,Online,91.4,91.2,61.8,59.3,1.8,2.42,3,0,0
+STD10060,21,Sistem Informasi,Online,91.1,79.7,50.4,96.9,16.1,2.12,0,0,0
+STD10061,24,Sistem Informasi,Hybrid,81.0,87.1,76.4,84.7,9.3,3.98,1,0,1
+STD10062,21,Sistem Informasi,Online,95.9,79.6,37.6,66.1,3.2,3.14,1,0,1
+STD10063,18,Teknik Industri,Online,84.3,75.6,85.5,80.1,11.2,3.2,2,0,0
+STD10064,20,Sistem Informasi,Hybrid,88.3,71.7,67.0,53.0,18.2,,2,0,0
+STD10065,20,Sistem Informasi,Hybrid,84.8,79.4,95.6,62.6,,3.21,0,0,1
+STD10066,21,Sistem Informasi,Tatap Muka,84.5,71.3,45.8,73.5,23.7,2.32,2,0,0
+STD10067,19,Informatika,Tatap Muka,74.6,85.4,82.9,78.3,7.8,2.62,3,1,0
+STD10068,19,Informatika,Hybrid,89.0,56.0,68.6,70.6,12.4,3.05,4,1,0
+STD10069,25,Informatika,Hybrid,100.0,68.5,65.4,75.5,5.9,1.98,1,0,0
+STD10070,19,Informatika,Tatap Muka,78.3,99.5,50.8,73.1,12.2,2.86,0,0,1
+STD10071,23,Informatika,Hybrid,82.7,67.5,78.3,69.7,11.3,2.84,2,0,0
+STD10072,23,Teknik Industri,Hybrid,77.5,72.1,79.5,67.9,4.6,2.86,2,1,0
+STD10073,22,Informatika,Online,77.1,64.4,95.0,66.0,26.1,2.75,2,1,1
+STD10074,25,Informatika,Tatap Muka,97.4,79.0,84.1,75.2,9.5,2.55,3,0,0
+STD10075,18,Informatika,Tatap Muka,75.3,66.2,61.7,77.8,9.5,2.18,0,0,0
+STD10076,20,Informatika,Hybrid,77.3,72.8,55.9,74.8,16.8,3.07,0,0,0
+STD10077,19,Sistem Informasi,Online,66.1,85.2,50.8,55.5,21.1,2.86,2,0,0
+STD10078,22,Sistem Informasi,Online,74.4,66.6,90.6,58.0,17.6,2.38,3,0,0
+STD10079,23,Teknik Industri,Online,64.9,84.5,59.1,77.6,6.0,3.03,1,0,0
+STD10080,25,Sistem Informasi,Online,88.3,84.9,90.7,92.6,13.1,2.87,1,1,1
+STD10081,21,Informatika,Tatap Muka,100.0,87.7,77.4,74.1,2.6,2.79,0,0,1
+STD10082,19,Teknik Industri,Tatap Muka,78.3,76.7,74.6,66.2,16.5,2.03,0,0,0
+STD10083,25,Informatika,Tatap Muka,65.3,100.0,65.7,75.1,3.8,3.31,3,0,0
+STD10084,23,Informatika,Hybrid,91.0,87.7,79.2,56.1,8.0,2.45,1,1,0
+STD10085,24,Informatika,Online,74.7,78.9,69.8,90.3,12.0,3.03,3,0,1
+STD10086,21,Sistem Informasi,Tatap Muka,95.0,64.5,64.8,74.6,14.2,2.64,2,0,1
+STD10087,21,Sistem Informasi,Hybrid,79.2,73.8,79.7,62.6,10.7,2.83,2,1,0
+STD10088,21,Informatika,Tatap Muka,75.7,92.1,68.0,69.7,19.6,3.52,3,0,0
+STD10089,23,Sistem Informasi,Tatap Muka,80.2,95.5,58.8,64.6,15.6,3.24,3,0,1
+STD10090,19,Informatika,Tatap Muka,89.6,92.7,78.4,90.4,15.2,3.51,2,0,1
+STD10091,25,Sistem Informasi,Tatap Muka,79.7,84.4,69.1,69.2,5.9,3.15,4,0,0
+STD10092,19,Informatika,Online,77.0,59.9,76.8,74.2,20.5,3.18,2,1,1
+STD10093,21,Informatika,Tatap Muka,80.0,80.8,63.6,80.0,8.0,2.2,2,0,0
+STD10094,20,Informatika,Online,69.3,60.1,53.1,61.6,20.7,2.86,1,0,0
+STD10095,23,Sistem Informasi,Hybrid,86.0,57.2,94.3,74.7,22.1,2.9,3,0,0
+STD10096,23,Informatika,Tatap Muka,64.1,77.9,91.7,75.8,14.6,3.55,2,1,1
+STD10097,25,Informatika,Tatap Muka,77.6,81.3,82.4,50.2,17.2,2.77,0,1,0
+STD10098,24,Informatika,,89.6,85.8,64.6,75.5,1.0,3.12,2,0,0
+STD10099,19,Teknik Industri,Tatap Muka,85.0,81.0,65.8,71.4,11.0,3.1,0,0,1
+STD10100,19,Teknik Industri,Online,87.9,81.4,89.4,73.8,17.5,3.52,2,0,1
+STD10101,25,Sistem Informasi,Tatap Muka,81.3,63.2,65.0,72.5,16.6,,3,1,0
+STD10102,21,Informatika,Hybrid,93.7,73.7,61.1,75.6,5.9,3.37,1,0,0
+STD10103,18,Teknik Industri,Online,91.2,56.9,96.2,90.7,10.5,2.23,1,0,1
+STD10104,24,Teknik Industri,Tatap Muka,86.5,51.0,69.3,55.5,1.0,2.27,1,0,0
+STD10105,23,Sistem Informasi,Tatap Muka,91.3,83.9,94.8,67.2,14.1,1.97,1,1,1
+STD10106,18,Informatika,Online,89.5,66.0,50.4,81.3,2.6,3.35,2,0,0
+STD10107,24,Informatika,Tatap Muka,77.6,85.5,77.3,78.7,17.7,3.3,2,0,1
+STD10108,22,Informatika,Tatap Muka,68.6,88.3,99.0,78.4,17.9,3.4,1,1,1
+STD10109,22,Teknik Industri,Tatap Muka,86.2,67.6,70.4,100.0,9.6,2.7,1,0,1
+STD10110,24,Sistem Informasi,Tatap Muka,87.5,82.1,66.3,80.6,14.6,2.75,2,0,1
+STD10111,21,Informatika,Hybrid,92.9,67.1,53.7,87.8,10.9,2.95,3,0,1
+STD10112,21,Informatika,Hybrid,,52.8,85.2,67.7,13.2,3.65,2,0,0
+STD10113,22,Sistem Informasi,Tatap Muka,,76.5,59.2,58.1,6.3,3.76,3,0,0
+STD10114,19,Informatika,Online,86.6,69.3,68.7,67.6,15.1,3.36,1,0,0
+STD10115,19,Teknik Industri,Tatap Muka,81.3,69.7,52.7,82.0,3.8,3.15,5,0,1
+STD10116,24,Teknik Industri,Tatap Muka,63.1,98.7,91.8,77.7,2.9,3.6,5,0,1
+STD10117,19,Sistem Informasi,Hybrid,85.8,56.7,86.2,77.6,11.4,2.88,0,1,0
+STD10118,22,Informatika,Online,63.5,79.6,69.6,69.0,10.9,2.82,1,0,0
+STD10119,20,Sistem Informasi,Tatap Muka,72.5,63.1,53.8,66.8,13.4,2.94,1,1,0
+STD10120,19,Sistem Informasi,Tatap Muka,95.5,85.9,91.5,69.5,8.8,2.56,6,0,1
+STD10121,22,Sistem Informasi,Hybrid,100.0,78.6,64.9,82.1,21.4,2.92,2,0,1
+STD10122,24,Informatika,Online,69.8,79.6,54.5,83.8,12.8,2.5,2,0,0
+STD10123,21,Informatika,Tatap Muka,78.7,63.7,45.3,57.9,13.2,3.46,0,0,0
+STD10124,19,Informatika,Tatap Muka,82.4,65.8,61.0,82.7,13.0,3.24,2,0,0
+STD10125,19,Sistem Informasi,Hybrid,99.8,86.1,49.6,62.9,17.0,3.64,1,0,1
+STD10126,19,Informatika,Tatap Muka,77.1,96.2,61.3,78.6,14.9,2.27,1,1,1
+STD10127,25,Informatika,Tatap Muka,77.2,80.8,80.4,69.3,14.2,3.86,1,1,1
+STD10128,20,Informatika,Tatap Muka,97.5,64.2,64.7,93.9,15.7,2.29,5,0,1
+STD10129,20,Sistem Informasi,Tatap Muka,78.3,79.1,75.0,66.1,2.9,2.46,0,1,0
+STD10130,18,Informatika,Hybrid,89.2,100.0,59.9,74.5,3.1,2.72,1,0,1
+STD10131,21,Teknik Industri,Online,67.2,76.2,70.9,80.5,11.6,3.59,2,0,1
+STD10132,25,Sistem Informasi,Hybrid,80.3,92.5,96.9,59.8,11.0,3.1,2,0,1
+STD10133,21,Informatika,Hybrid,65.4,66.1,65.1,71.0,14.9,2.89,2,1,0
+STD10134,23,Sistem Informasi,Online,71.4,74.5,75.4,68.3,12.1,2.64,0,1,1
+STD10135,19,Informatika,Tatap Muka,90.4,82.4,48.1,64.8,14.9,2.38,0,1,1
+STD10136,19,Teknik Industri,Tatap Muka,81.5,79.8,91.3,65.8,5.8,3.51,0,1,0
+STD10137,23,Sistem Informasi,Online,78.8,65.8,63.3,87.6,11.9,3.36,0,0,1
+STD10138,18,Teknik Industri,Tatap Muka,74.5,65.3,84.7,63.6,5.3,3.61,1,1,1
+STD10139,21,Informatika,Hybrid,79.8,86.9,68.3,79.9,13.9,3.18,7,1,1
+STD10140,20,Sistem Informasi,Hybrid,85.0,89.3,78.6,76.4,2.6,1.81,2,1,0
+STD10141,18,Sistem Informasi,Tatap Muka,91.8,93.1,79.4,52.4,13.7,2.44,0,0,1
+STD10142,22,Teknik Industri,Hybrid,55.7,96.6,63.7,79.3,4.7,3.21,1,1,0
+STD10143,25,Sistem Informasi,Tatap Muka,73.7,76.6,85.3,52.2,10.1,2.83,1,0,0
+STD10144,18,Sistem Informasi,Tatap Muka,83.6,71.3,59.4,80.8,16.5,2.75,2,1,0
+STD10145,24,Informatika,Hybrid,81.0,91.2,80.9,64.9,13.1,2.5,1,1,1
+STD10146,22,Informatika,Tatap Muka,86.0,83.6,64.5,72.1,3.8,3.43,2,1,0
+STD10147,23,Sistem Informasi,Hybrid,84.7,63.2,74.9,53.9,8.6,3.21,0,0,0
+STD10148,18,Informatika,Online,79.0,62.6,63.5,73.7,4.5,3.23,1,0,0
+STD10149,24,Informatika,Online,76.7,80.9,70.7,85.0,3.5,2.71,3,1,1
+STD10150,18,Teknik Industri,Tatap Muka,79.5,72.9,55.0,60.7,12.6,3.08,3,1,0
+STD10151,25,Teknik Industri,Tatap Muka,93.5,74.7,73.5,63.5,14.8,2.4,1,1,0
+STD10152,23,Informatika,Tatap Muka,74.7,87.9,70.6,78.4,14.2,2.94,0,1,0
+STD10153,20,Sistem Informasi,Tatap Muka,81.4,84.1,62.4,78.7,15.0,1.86,2,0,0
+STD10154,18,Informatika,Online,83.8,91.0,69.2,37.9,11.9,2.29,6,1,0
+STD10155,22,Sistem Informasi,Tatap Muka,97.6,51.8,71.9,100.0,10.6,2.85,0,0,0
+STD10156,18,Informatika,Tatap Muka,79.0,78.0,61.4,79.4,6.6,4.0,1,0,0
+STD10157,22,Sistem Informasi,Online,91.6,83.3,68.2,81.8,9.8,2.19,2,0,0
+STD10158,24,Sistem Informasi,Tatap Muka,94.3,56.7,55.9,70.0,5.4,2.44,1,0,0
+STD10159,20,Teknik Industri,Tatap Muka,81.4,67.1,100.0,46.0,7.8,3.1,2,0,0
+STD10160,19,Informatika,Tatap Muka,79.9,64.9,84.8,81.4,12.4,3.8,1,1,1
+STD10161,19,Teknik Industri,Hybrid,78.7,75.3,73.8,64.1,11.4,3.09,1,0,0
+STD10162,19,Informatika,Hybrid,79.4,94.5,86.4,79.6,27.3,,2,1,1
+STD10163,18,Informatika,Tatap Muka,90.5,99.3,42.3,68.9,5.3,2.85,2,0,1
+STD10164,19,Sistem Informasi,Online,84.3,65.2,34.2,75.3,11.4,2.77,2,1,0
+STD10165,23,Informatika,Online,84.4,81.3,64.4,61.2,4.9,3.04,1,0,0
+STD10166,20,Teknik Industri,Online,70.7,81.7,50.7,84.1,10.1,2.7,4,1,0
+STD10167,24,Teknik Industri,Tatap Muka,72.3,79.7,66.7,55.4,10.3,3.33,3,0,0
+STD10168,24,Informatika,Tatap Muka,100.0,79.8,72.9,100.0,16.2,2.28,4,0,0
+STD10169,24,Teknik Industri,Online,80.2,78.6,82.9,100.0,9.8,3.4,3,0,1
+STD10170,22,Informatika,Tatap Muka,74.3,95.3,54.1,94.9,11.0,3.02,1,0,1
+STD10171,20,Sistem Informasi,Hybrid,96.3,88.2,75.6,89.9,9.8,2.9,1,0,1
+STD10172,25,Informatika,Hybrid,84.8,62.3,70.2,70.8,5.0,2.26,2,0,0
+STD10173,19,Teknik Industri,Tatap Muka,87.8,84.5,74.9,88.3,8.7,2.56,2,0,1
+STD10174,21,Informatika,Hybrid,,85.7,62.7,70.7,10.1,3.54,1,1,1
+STD10175,21,Informatika,Online,78.8,78.8,89.4,50.3,12.4,2.91,2,0,0
+STD10176,23,Informatika,Hybrid,80.3,88.6,68.6,93.0,14.8,3.13,1,0,1
+STD10177,22,Teknik Industri,Tatap Muka,68.2,77.3,94.8,87.8,10.8,2.6,1,0,0
+STD10178,24,Teknik Industri,Online,81.1,77.4,58.9,71.6,10.7,2.99,3,0,0
+STD10179,25,Sistem Informasi,Hybrid,85.0,76.5,80.4,54.8,3.4,2.38,2,0,0
+STD10180,21,Teknik Industri,Hybrid,100.0,50.8,69.2,63.8,14.7,3.04,1,1,0
+STD10181,24,Teknik Industri,Online,82.9,74.0,65.4,46.5,8.5,3.17,2,0,0
+STD10182,19,Sistem Informasi,Hybrid,58.7,67.0,78.9,85.2,15.7,3.14,2,0,0
+STD10183,25,Informatika,Tatap Muka,81.1,60.8,65.8,49.6,18.6,2.59,0,0,0
+STD10184,19,Teknik Industri,Tatap Muka,100.0,92.2,32.7,76.0,11.1,2.85,0,0,1
+STD10185,24,Sistem Informasi,Tatap Muka,90.7,,30.0,60.2,6.9,3.24,2,1,0
+STD10186,21,Informatika,Hybrid,73.9,74.6,87.8,52.0,11.9,2.9,4,0,0
+STD10187,25,Informatika,Hybrid,87.9,68.2,87.2,75.3,13.7,2.87,1,1,0
+STD10188,19,Sistem Informasi,Hybrid,74.6,78.6,96.4,67.3,10.4,3.86,2,0,1
+STD10189,21,Informatika,,68.5,86.9,69.8,83.7,9.2,2.57,1,0,0
+STD10190,25,Teknik Industri,Hybrid,78.5,65.1,51.9,54.3,14.8,3.49,3,0,0
+STD10191,18,Informatika,Online,82.9,74.9,64.1,61.4,14.5,2.48,2,1,0
+STD10192,20,Informatika,Tatap Muka,63.3,85.4,70.2,38.6,10.3,3.29,1,0,0
+STD10193,18,Teknik Industri,Hybrid,70.5,51.8,55.9,41.4,3.7,3.32,0,0,0
+STD10194,20,Informatika,Hybrid,82.1,74.3,93.1,97.2,14.3,2.77,3,1,1
+STD10195,21,Informatika,Hybrid,77.9,69.8,100.0,100.0,8.2,2.45,1,0,0
+STD10196,22,Sistem Informasi,,85.9,73.4,76.7,73.3,13.1,2.11,1,0,0
+STD10197,20,Teknik Industri,Hybrid,69.9,69.0,69.8,60.5,12.8,2.72,3,0,0
+STD10198,19,Informatika,Online,89.1,76.7,51.9,67.8,2.6,3.24,3,0,0
+STD10199,19,Informatika,Hybrid,70.2,98.1,91.7,84.2,12.4,2.52,2,1,0
+STD10200,25,Teknik Industri,Online,98.4,71.1,71.1,64.8,14.6,3.04,3,0,0
+STD10201,25,Teknik Industri,Online,64.8,78.5,66.0,75.3,15.2,2.34,1,0,0
+STD10202,19,Sistem Informasi,Tatap Muka,,98.9,76.7,71.8,12.6,2.89,1,0,0
+STD10203,19,Informatika,Hybrid,86.2,68.4,61.8,64.0,2.1,2.48,1,1,0
+STD10204,18,Informatika,Hybrid,98.6,96.8,72.1,64.6,18.4,2.96,3,0,0
+STD10205,25,Informatika,Online,85.2,75.1,49.8,76.1,,2.77,2,0,0
+STD10206,23,Informatika,Tatap Muka,87.6,96.4,85.2,58.3,6.0,2.46,3,1,0
+STD10207,24,Sistem Informasi,Tatap Muka,82.2,84.0,68.5,78.3,8.1,2.7,1,0,1
+STD10208,20,Informatika,Online,71.7,78.7,86.2,65.4,13.2,2.58,2,1,0
+STD10209,23,Sistem Informasi,Tatap Muka,77.1,74.2,67.2,73.8,15.4,2.41,0,1,0
+STD10210,18,Sistem Informasi,Hybrid,69.9,67.5,68.1,91.4,9.6,3.49,3,0,0
+STD10211,23,Sistem Informasi,Tatap Muka,69.2,75.9,53.0,69.6,16.1,2.84,1,1,0
+STD10212,22,Informatika,Online,86.0,85.8,80.6,84.9,3.0,2.01,1,1,0
+STD10213,20,Teknik Industri,Online,70.8,74.8,57.7,46.9,6.8,2.72,2,0,0
+STD10214,23,Sistem Informasi,Tatap Muka,85.2,71.2,63.2,65.4,1.7,3.41,4,0,0
+STD10215,23,Sistem Informasi,Hybrid,69.0,72.0,70.0,72.4,7.5,2.66,0,1,0
+STD10216,21,Informatika,Tatap Muka,85.0,86.9,71.7,98.9,19.5,3.67,4,0,1
+STD10217,19,Informatika,Hybrid,77.1,89.7,46.1,44.6,22.3,2.61,1,0,1
+STD10218,18,Teknik Industri,Hybrid,96.1,67.0,66.8,70.7,13.2,3.23,2,0,0
+STD10219,25,Informatika,Online,85.2,67.0,81.1,92.4,8.8,3.47,4,1,1
+STD10220,20,Informatika,Tatap Muka,94.4,79.6,64.7,61.0,10.9,3.2,3,1,0
+STD10221,20,Sistem Informasi,Tatap Muka,74.4,93.3,66.9,69.0,14.4,2.38,2,1,0
+STD10222,23,Sistem Informasi,Hybrid,82.6,88.8,72.3,76.6,4.2,2.58,4,0,0
+STD10223,20,Teknik Industri,Hybrid,72.2,60.0,68.2,74.6,9.1,3.53,1,1,0
+STD10224,21,Informatika,Hybrid,77.9,71.8,55.6,93.9,19.2,2.64,2,0,0
+STD10225,23,Teknik Industri,Tatap Muka,,63.8,69.5,78.3,6.8,3.44,2,0,0
+STD10226,22,Informatika,Tatap Muka,74.7,71.8,83.9,90.6,8.3,2.81,3,1,0
+STD10227,23,Sistem Informasi,Online,69.8,94.3,55.3,67.0,12.1,3.06,0,0,0
+STD10228,18,Sistem Informasi,Tatap Muka,67.9,57.9,64.8,61.6,13.4,2.38,1,0,0
+STD10229,21,Informatika,Tatap Muka,58.6,55.6,50.7,68.8,8.9,,1,0,0
+STD10230,21,Informatika,Online,71.4,65.1,83.2,55.8,12.4,2.61,0,0,0
+STD10231,23,Informatika,Tatap Muka,88.3,78.4,68.7,78.8,15.0,3.1,2,1,1
+STD10232,19,Teknik Industri,Hybrid,66.0,82.4,58.1,66.6,21.8,3.04,5,0,1
+STD10233,19,Sistem Informasi,Tatap Muka,68.3,80.2,71.3,62.6,11.4,3.21,0,1,0
+STD10234,24,Teknik Industri,Online,99.9,89.1,53.1,79.0,11.8,,1,0,0
+STD10235,23,Teknik Industri,Hybrid,75.6,53.8,55.5,56.0,19.6,2.58,5,0,0
+STD10236,24,Sistem Informasi,Online,85.2,89.3,49.6,82.8,9.3,3.08,2,1,0
+STD10237,20,Teknik Industri,Tatap Muka,88.4,71.3,55.1,65.3,5.4,2.54,2,0,1
+STD10238,25,Informatika,Hybrid,88.6,83.8,89.0,88.2,13.3,3.49,2,1,1
+STD10239,20,Informatika,Hybrid,66.8,59.1,59.7,66.5,17.4,2.95,2,1,0
+STD10240,23,Teknik Industri,Tatap Muka,,75.1,76.5,80.8,13.8,2.85,2,0,1
+STD10241,19,Teknik Industri,Tatap Muka,65.8,77.8,58.3,74.5,11.5,3.21,0,0,0
+STD10242,25,Informatika,Tatap Muka,100.0,88.9,80.6,82.4,4.8,2.97,2,0,0
+STD10243,20,Sistem Informasi,Online,66.1,56.0,55.6,73.5,11.7,2.25,2,1,0
+STD10244,24,Sistem Informasi,Hybrid,71.5,75.4,70.5,48.7,18.2,2.52,1,0,0
+STD10245,20,Teknik Industri,Hybrid,71.6,62.0,70.7,86.1,5.8,3.48,2,1,0
+STD10246,24,Sistem Informasi,Hybrid,67.0,81.1,100.0,70.8,10.8,3.04,1,1,1
+STD10247,21,Informatika,Hybrid,95.5,84.3,78.8,83.1,10.1,2.24,1,0,0
+STD10248,18,Informatika,Hybrid,100.0,90.4,61.7,81.7,8.5,3.16,3,1,1
+STD10249,19,Informatika,Tatap Muka,77.2,68.6,79.6,61.2,13.2,2.75,3,0,0
+STD10250,23,Sistem Informasi,Hybrid,68.8,86.1,99.9,59.2,14.2,2.61,3,0,0
+STD10251,19,Teknik Industri,Tatap Muka,59.6,91.3,47.2,81.2,14.2,2.48,4,0,0
+STD10252,20,Sistem Informasi,Online,79.6,55.3,58.2,67.8,7.1,3.45,1,1,0
+STD10253,22,Informatika,Online,78.8,82.3,66.7,85.1,3.8,2.12,3,0,0
+STD10254,20,Informatika,Tatap Muka,75.5,86.5,64.2,69.5,13.3,2.62,0,1,0
+STD10255,19,Sistem Informasi,Hybrid,84.2,71.9,65.3,86.3,9.5,3.05,1,0,0
+STD10256,22,Teknik Industri,Tatap Muka,86.0,60.5,51.7,77.9,21.2,3.71,0,0,1
+STD10257,23,Informatika,Online,85.2,86.3,89.7,76.0,21.4,3.25,2,1,1
+STD10258,23,Informatika,Online,,60.6,50.1,66.8,22.0,2.62,2,1,0
+STD10259,25,Sistem Informasi,Online,71.0,72.9,67.2,75.3,7.3,3.69,1,0,0
+STD10260,18,Informatika,Tatap Muka,88.7,74.5,84.6,88.7,14.8,2.39,1,0,1
+STD10261,21,Teknik Industri,Tatap Muka,82.1,83.6,69.6,71.2,16.4,3.12,1,0,1
+STD10262,19,Informatika,Tatap Muka,90.9,67.5,56.3,79.4,15.8,3.22,1,0,1
+STD10263,25,Informatika,Tatap Muka,89.9,66.8,51.1,72.6,10.2,2.6,1,1,0
+STD10264,22,Teknik Industri,Tatap Muka,67.8,76.2,66.8,73.7,18.4,3.31,0,0,1
+STD10265,18,Informatika,Tatap Muka,67.7,87.1,59.4,96.1,12.0,2.77,2,0,1
+STD10266,23,Informatika,Online,74.4,100.0,72.9,88.8,12.6,3.31,1,1,1
+STD10267,18,Informatika,Tatap Muka,71.4,56.9,50.4,73.1,4.3,2.17,1,0,0
+STD10268,20,Informatika,Tatap Muka,89.6,78.8,81.4,75.0,15.2,3.15,2,1,1
+STD10269,23,Informatika,Online,85.5,62.0,71.6,62.2,10.7,2.81,1,0,0
+STD10270,22,Informatika,Hybrid,93.0,87.2,72.7,69.6,14.3,3.52,3,0,1
+STD10271,24,Informatika,Hybrid,86.0,63.7,90.2,76.3,13.2,2.98,2,0,1
+STD10272,22,Informatika,Hybrid,84.1,66.9,63.9,83.9,12.9,3.56,0,0,1
+STD10273,24,Sistem Informasi,Online,94.0,67.9,59.8,82.5,11.8,3.23,1,1,0
+STD10274,22,Sistem Informasi,Hybrid,86.7,74.1,62.3,56.5,15.9,2.94,5,0,0
+STD10275,18,Informatika,Hybrid,82.7,78.9,67.3,85.7,11.0,3.35,0,0,1
+STD10276,18,Informatika,Hybrid,96.8,,68.7,70.8,,3.36,3,0,0
+STD10277,24,Sistem Informasi,Tatap Muka,83.2,74.9,58.4,58.2,14.8,3.21,4,0,0
+STD10278,18,Teknik Industri,Tatap Muka,79.0,59.0,41.7,90.7,8.0,1.97,4,0,0
+STD10279,21,Teknik Industri,Hybrid,73.6,83.7,62.1,92.5,5.4,2.56,4,0,0
+STD10280,18,Informatika,Tatap Muka,89.0,74.4,75.0,75.7,6.9,3.62,1,0,1
+STD10281,20,Informatika,Hybrid,94.4,88.9,71.9,81.9,13.4,2.43,3,1,1
+STD10282,22,Informatika,Tatap Muka,81.5,66.5,86.8,82.7,11.5,3.4,3,0,1
+STD10283,19,Informatika,Tatap Muka,95.1,55.8,97.4,91.5,1.3,3.32,1,1,0
+STD10284,21,Sistem Informasi,Tatap Muka,62.3,74.6,80.6,82.2,10.1,2.67,2,0,0
+STD10285,25,Informatika,Online,81.4,90.6,89.4,53.4,17.8,2.1,2,1,1
+STD10286,18,Informatika,Tatap Muka,81.6,76.9,80.7,100.0,9.7,2.74,2,0,1
+STD10287,18,Informatika,Hybrid,74.7,72.6,93.9,86.9,11.2,3.94,2,0,1
+STD10288,20,Sistem Informasi,Online,100.0,64.6,95.9,64.9,17.2,2.61,3,0,1
+STD10289,24,Informatika,Tatap Muka,81.3,96.1,83.3,57.6,16.0,2.64,2,0,0
+STD10290,21,Teknik Industri,Hybrid,77.9,62.6,79.9,79.1,17.1,2.55,4,0,0
+STD10291,23,Informatika,Tatap Muka,82.3,66.3,67.1,68.1,1.0,3.55,3,0,0
+STD10292,18,Teknik Industri,Tatap Muka,62.0,81.8,69.4,76.6,20.7,2.89,1,1,0
+STD10293,23,Informatika,Hybrid,74.4,52.7,65.3,82.4,15.2,2.72,2,0,0
+STD10294,18,Teknik Industri,Online,91.8,90.3,78.7,64.1,24.3,3.64,2,1,1
+STD10295,23,Teknik Industri,Tatap Muka,75.7,82.5,59.9,56.4,8.1,3.26,0,0,0
+STD10296,19,Teknik Industri,Hybrid,73.7,85.8,67.3,77.4,3.2,2.59,1,0,0
+STD10297,24,Teknik Industri,Tatap Muka,95.1,81.7,37.0,64.5,12.0,2.45,3,0,0
+STD10298,20,Teknik Industri,Hybrid,95.4,73.1,94.1,74.0,10.6,3.52,2,0,1
+STD10299,19,Sistem Informasi,Hybrid,87.2,62.2,66.9,53.2,15.3,3.01,0,1,1
+STD10300,20,Teknik Industri,Hybrid,77.4,73.3,76.4,68.5,17.4,2.3,3,0,1
+STD10301,18,Informatika,Hybrid,79.6,63.3,90.4,82.0,11.6,2.2,5,1,1
+STD10302,19,Sistem Informasi,Tatap Muka,74.0,80.8,74.2,80.5,10.8,2.5,5,0,0
+STD10303,22,Sistem Informasi,Hybrid,72.1,84.7,90.2,61.0,,2.44,1,0,0
+STD10304,20,Teknik Industri,Hybrid,71.6,92.7,52.6,55.6,10.7,2.08,3,0,1
+STD10305,20,Sistem Informasi,Hybrid,75.8,79.5,100.0,72.2,10.3,2.51,0,1,1
+STD10306,24,Informatika,Tatap Muka,71.7,86.1,85.2,79.9,17.2,2.59,1,0,1
+STD10307,18,Sistem Informasi,Tatap Muka,66.4,71.4,72.9,77.7,18.3,2.79,5,1,0
+STD10308,21,Informatika,Tatap Muka,84.2,69.3,90.0,64.8,17.4,3.76,2,0,1
+STD10309,19,Informatika,Tatap Muka,84.3,80.7,53.6,76.2,11.2,2.88,4,0,0
+STD10310,21,Sistem Informasi,Tatap Muka,99.0,70.4,66.0,93.0,1.3,2.92,3,1,0
+STD10311,20,Informatika,Tatap Muka,75.3,78.2,90.2,74.9,11.3,3.23,2,0,0
+STD10312,18,Informatika,Hybrid,85.0,62.3,43.9,49.1,8.2,2.89,1,1,0
+STD10313,18,Informatika,Tatap Muka,85.1,,77.8,74.8,11.4,3.18,3,0,0
+STD10314,24,Informatika,Online,79.5,82.6,77.5,100.0,8.6,3.13,4,1,0
+STD10315,18,Informatika,Hybrid,89.4,85.6,97.6,54.0,11.9,3.06,1,0,0
+STD10316,24,Informatika,Hybrid,89.8,63.2,47.8,72.4,6.8,4.0,2,1,1
+STD10317,25,Sistem Informasi,Hybrid,85.3,83.0,92.5,68.8,5.6,3.41,3,0,1
+STD10318,21,Informatika,Hybrid,,68.6,62.2,73.3,18.1,2.51,2,1,1
+STD10319,20,Teknik Industri,Hybrid,78.4,75.2,63.7,74.7,7.2,3.17,1,0,0
+STD10320,24,Teknik Industri,Online,68.3,92.0,52.9,88.0,12.0,2.64,3,1,0
+STD10321,25,Sistem Informasi,Hybrid,73.9,84.7,54.8,73.2,16.8,3.2,2,1,1
+STD10322,18,Informatika,Hybrid,75.8,84.6,75.6,89.9,16.6,2.38,4,1,0
+STD10323,25,Sistem Informasi,Hybrid,70.8,97.9,54.4,70.4,16.0,2.5,4,0,0
+STD10324,25,Teknik Industri,Hybrid,86.4,66.6,80.4,67.1,13.5,3.15,2,0,0
+STD10325,19,Sistem Informasi,Tatap Muka,94.0,63.2,60.7,62.6,15.6,3.45,2,1,1
+STD10326,18,Teknik Industri,Hybrid,72.9,66.3,53.0,46.6,18.9,3.23,3,0,0
+STD10327,23,Sistem Informasi,Hybrid,84.8,71.9,62.6,75.9,14.1,3.38,3,0,0
+STD10328,18,Sistem Informasi,Online,71.7,46.7,74.7,100.0,2.8,3.17,2,0,1
+STD10329,22,Informatika,Hybrid,79.0,72.5,66.1,78.4,9.4,3.08,1,0,0
+STD10330,18,Sistem Informasi,Hybrid,75.1,68.5,70.5,81.6,15.5,2.77,2,0,1
+STD10331,23,Informatika,Online,88.0,84.4,79.7,66.2,8.9,3.37,3,1,1
+STD10332,19,Sistem Informasi,Hybrid,75.2,79.2,85.2,68.6,20.1,3.46,4,0,1
+STD10333,18,Teknik Industri,Tatap Muka,92.1,67.8,65.7,85.8,11.7,2.97,1,0,0
+STD10334,18,Informatika,Tatap Muka,79.5,82.1,55.4,100.0,12.4,2.95,4,1,1
+STD10335,19,Sistem Informasi,Tatap Muka,75.5,83.7,71.1,92.8,17.6,3.72,3,0,0
+STD10336,22,Informatika,Tatap Muka,69.5,65.8,76.6,83.3,11.1,2.99,4,1,1
+STD10337,18,Sistem Informasi,Tatap Muka,84.5,69.1,49.5,72.5,12.9,3.03,2,0,0
+STD10338,24,Informatika,Hybrid,91.0,48.3,57.5,74.9,16.5,3.22,2,0,1
+STD10339,22,Teknik Industri,Hybrid,84.7,61.9,59.9,61.5,4.6,2.96,8,0,0
+STD10340,20,Informatika,Tatap Muka,100.0,66.1,67.1,51.7,10.6,2.63,2,0,0
+STD10341,25,Teknik Industri,Hybrid,96.3,75.9,59.3,56.2,16.1,3.17,3,1,0
+STD10342,23,Teknik Industri,Tatap Muka,78.9,63.7,79.9,72.7,12.3,2.98,4,0,0
+STD10343,23,Sistem Informasi,Online,78.8,68.8,47.5,67.9,19.3,3.83,3,0,0
+STD10344,19,Teknik Industri,Tatap Muka,86.7,60.3,47.9,51.4,4.1,3.35,1,0,0
+STD10345,23,Teknik Industri,Hybrid,73.6,77.1,65.3,71.5,60.0,2.73,5,0,0
+STD10346,22,Teknik Industri,Tatap Muka,93.7,80.1,67.5,67.5,15.8,3.33,4,1,1
+STD10347,25,Informatika,Hybrid,85.6,79.8,49.6,55.6,16.3,3.14,0,0,0
+STD10348,21,Sistem Informasi,Tatap Muka,84.6,75.1,61.5,66.8,11.0,3.59,3,0,0
+STD10349,23,Informatika,Hybrid,88.9,56.5,64.4,67.5,14.0,2.76,0,0,0
+STD10350,20,Sistem Informasi,Tatap Muka,99.2,67.6,64.5,63.4,15.7,3.08,2,1,0
+STD10351,18,Informatika,Online,83.7,70.1,72.1,85.0,7.9,2.96,1,0,0
+STD10352,19,Sistem Informasi,Hybrid,80.9,70.2,60.7,45.4,8.5,3.03,1,0,0
+STD10353,24,Sistem Informasi,Hybrid,97.1,75.9,90.7,44.2,12.9,2.6,3,1,0
+STD10354,23,Sistem Informasi,Online,91.7,92.1,76.8,72.0,16.5,3.26,1,0,0
+STD10355,20,Sistem Informasi,Online,78.8,84.7,58.7,73.3,6.2,3.19,8,1,0
+STD10356,23,Teknik Industri,Tatap Muka,82.1,63.1,71.3,77.7,11.0,3.58,2,0,1
+STD10357,18,Teknik Industri,Tatap Muka,84.0,83.1,71.7,64.5,10.8,3.0,1,1,0
+STD10358,18,Sistem Informasi,Tatap Muka,85.6,82.7,87.0,59.1,14.1,2.81,3,0,1
+STD10359,22,Sistem Informasi,Tatap Muka,68.4,65.3,61.6,71.9,12.0,3.36,2,0,0
+STD10360,22,Teknik Industri,Hybrid,66.6,85.2,80.7,65.8,9.3,2.64,4,0,0
+STD10361,25,Informatika,Online,73.1,73.1,70.6,93.7,18.2,3.49,2,0,1
+STD10362,24,Informatika,Online,72.4,58.1,90.9,67.5,9.3,3.49,3,0,1
+STD10363,20,Informatika,Hybrid,75.6,80.5,88.1,71.3,10.5,3.57,3,0,0
+STD10364,24,Sistem Informasi,Hybrid,88.3,77.6,72.8,100.0,4.0,3.17,5,0,1
+STD10365,21,Informatika,Online,80.3,72.3,66.3,69.3,8.4,2.78,1,1,0
+STD10366,24,Teknik Industri,Online,84.0,74.6,77.1,79.8,14.6,3.05,4,0,1
+STD10367,19,Sistem Informasi,Tatap Muka,69.8,66.4,67.5,81.0,13.6,3.17,0,1,1
+STD10368,18,Informatika,Hybrid,77.4,82.3,93.5,82.2,15.0,2.75,2,0,1
+STD10369,18,Teknik Industri,Online,87.9,74.5,71.1,76.1,14.8,3.6,0,0,0
+STD10370,25,Teknik Industri,Tatap Muka,87.9,77.0,64.3,74.7,22.4,3.26,1,1,1
+STD10371,18,Informatika,Tatap Muka,74.8,79.3,63.6,73.4,8.3,2.6,2,1,0
+STD10372,25,Informatika,Online,83.6,61.1,53.0,63.9,3.9,3.85,6,1,0
+STD10373,23,Informatika,Online,100.0,64.3,77.8,76.6,6.7,3.04,2,0,0
+STD10374,19,Informatika,Online,81.8,48.5,58.5,100.0,8.5,2.51,1,0,1
+STD10375,24,Informatika,Hybrid,75.1,81.8,85.4,88.9,7.1,2.63,2,1,1
+STD10376,19,Teknik Industri,Tatap Muka,,60.5,51.9,76.3,12.5,3.67,1,0,0
+STD10377,19,Informatika,Tatap Muka,82.9,76.6,71.8,84.0,18.3,3.82,1,0,1
+STD10378,22,Informatika,Hybrid,80.5,79.5,86.1,59.8,19.7,3.45,2,0,0
+STD10379,20,Sistem Informasi,Hybrid,81.7,82.2,39.9,68.4,14.5,3.59,0,1,0
+STD10380,20,Sistem Informasi,Hybrid,67.6,60.6,98.3,85.3,22.7,3.55,1,1,1
+STD10381,19,Teknik Industri,Hybrid,72.4,74.2,64.0,92.8,10.2,3.25,4,1,0
+STD10382,22,Teknik Industri,Tatap Muka,80.5,95.0,72.0,61.2,3.8,3.15,2,1,0
+STD10383,18,Sistem Informasi,Hybrid,80.3,95.6,78.0,65.2,17.3,3.24,2,0,0
+STD10384,19,Informatika,Tatap Muka,76.3,86.8,80.2,100.0,2.8,3.33,4,0,0
+STD10385,22,Teknik Industri,Tatap Muka,80.2,79.0,73.8,73.3,8.2,2.67,2,0,0
+STD10386,21,Sistem Informasi,Tatap Muka,,,84.0,97.5,14.6,3.33,4,0,1
+STD10387,23,Teknik Industri,Tatap Muka,90.9,83.6,77.3,74.9,11.5,3.66,1,0,1
+STD10388,19,Informatika,,81.0,73.1,94.7,75.4,11.0,2.91,1,1,0
+STD10389,23,Teknik Industri,Tatap Muka,86.0,81.7,77.3,67.7,6.1,2.86,2,0,0
+STD10390,24,Sistem Informasi,Tatap Muka,76.6,67.4,97.5,85.2,11.9,3.21,1,0,0
+STD10391,21,Informatika,Hybrid,87.7,72.9,82.6,91.0,17.0,2.71,3,0,1
+STD10392,20,Sistem Informasi,Hybrid,85.8,77.0,44.7,57.5,12.1,2.41,3,0,0
+STD10393,22,Sistem Informasi,Tatap Muka,,78.0,100.0,67.1,7.8,3.52,5,0,1
+STD10394,22,Informatika,Tatap Muka,89.1,80.9,62.0,84.8,5.8,2.8,3,0,0
+STD10395,18,Sistem Informasi,Tatap Muka,87.9,68.0,90.9,70.2,8.0,3.01,1,0,1
+STD10396,22,Teknik Industri,Hybrid,81.0,58.9,70.4,65.1,14.0,2.73,4,0,0
+STD10397,19,Informatika,Tatap Muka,84.4,94.5,84.9,86.1,13.7,3.57,3,1,1
+STD10398,22,Sistem Informasi,Tatap Muka,92.6,100.0,60.4,87.4,8.0,3.38,1,1,1
+STD10399,25,Informatika,Tatap Muka,75.5,80.4,78.8,65.7,1.0,2.89,6,1,0
+STD10400,22,Informatika,Hybrid,75.7,59.1,66.5,75.0,14.1,2.47,3,0,0
+STD10401,24,Teknik Industri,Tatap Muka,83.8,65.7,92.1,55.1,7.5,2.84,3,0,0
+STD10402,20,Teknik Industri,Online,86.2,81.1,76.1,59.5,15.4,3.26,3,0,1
+STD10403,25,Informatika,Tatap Muka,73.8,91.1,83.1,73.7,8.2,3.08,1,1,1
+STD10404,24,Teknik Industri,Hybrid,81.3,60.4,39.7,72.4,7.1,3.05,3,0,0
+STD10405,25,Teknik Industri,Tatap Muka,81.1,73.5,68.8,58.5,12.8,3.1,0,0,0
+STD10406,23,Informatika,Tatap Muka,59.8,77.4,75.7,62.0,23.8,3.34,3,1,0
+STD10407,23,Teknik Industri,Tatap Muka,79.8,85.4,73.1,57.1,15.7,2.98,2,1,0
+STD10408,22,Informatika,Online,80.4,70.9,83.5,78.4,12.7,3.2,3,0,1
+STD10409,25,Teknik Industri,Online,80.4,56.2,64.9,44.5,13.8,2.56,5,1,0
+STD10410,24,Sistem Informasi,Tatap Muka,96.2,82.5,70.7,57.8,3.2,4.0,3,0,1
+STD10411,21,Sistem Informasi,Tatap Muka,69.8,88.5,86.5,45.9,6.4,2.87,4,0,0
+STD10412,18,Informatika,Online,73.8,74.0,38.1,77.9,1.0,3.09,2,0,0
+STD10413,18,Teknik Industri,Hybrid,55.9,79.9,78.3,46.8,20.6,3.25,2,1,0
+STD10414,19,Informatika,Tatap Muka,77.2,69.3,65.3,72.4,19.6,2.82,0,0,0
+STD10415,18,Informatika,Tatap Muka,78.0,64.9,57.2,95.0,14.0,3.0,1,1,0
+STD10416,19,Informatika,Hybrid,76.9,87.3,74.7,95.4,12.7,3.0,4,0,0
+STD10417,18,Teknik Industri,Hybrid,93.1,79.6,87.2,46.7,4.2,2.59,2,0,0
+STD10418,25,Informatika,Hybrid,90.6,80.9,84.5,76.2,10.9,3.2,3,1,1
+STD10419,18,Teknik Industri,Online,82.8,93.0,68.1,58.2,21.0,2.26,2,1,0
+STD10420,23,Sistem Informasi,Hybrid,78.3,62.3,82.3,55.3,12.7,3.79,3,1,0
+STD10421,20,Informatika,Tatap Muka,92.3,68.4,82.2,70.4,9.2,3.36,1,1,0
+STD10422,19,Informatika,Hybrid,81.8,76.9,68.8,89.2,3.2,3.29,3,1,1
+STD10423,23,Informatika,Tatap Muka,73.8,68.2,60.3,80.4,18.9,2.22,0,0,0
+STD10424,25,Sistem Informasi,Tatap Muka,64.8,84.4,61.1,62.0,11.6,2.64,0,1,0
+STD10425,24,Teknik Industri,Tatap Muka,77.6,72.8,81.7,81.9,3.2,3.63,2,0,1
+STD10426,25,Informatika,Tatap Muka,89.5,63.1,69.4,40.6,7.4,4.0,3,0,0
+STD10427,22,Teknik Industri,Hybrid,100.0,75.8,55.4,61.5,5.6,3.54,2,0,0
+STD10428,23,Informatika,Tatap Muka,82.6,77.0,46.4,60.5,11.3,3.47,1,0,0
+STD10429,19,Teknik Industri,Tatap Muka,74.3,86.2,81.6,73.1,13.0,3.24,2,0,1
+STD10430,24,Teknik Industri,Hybrid,70.2,79.7,62.3,69.2,9.5,2.62,3,0,0
+STD10431,23,Teknik Industri,Hybrid,87.5,80.5,74.6,70.0,15.9,3.45,1,0,0
+STD10432,20,Sistem Informasi,Hybrid,64.4,78.8,87.4,69.6,12.4,2.5,0,1,0
+STD10433,20,Teknik Industri,Online,87.5,72.7,51.7,72.3,17.3,2.46,5,1,0
+STD10434,22,Informatika,Hybrid,90.2,66.4,69.4,79.6,10.2,2.43,6,0,0
+STD10435,18,Informatika,,86.4,78.5,67.6,74.1,27.2,3.44,1,1,1
+STD10436,24,Informatika,Hybrid,79.8,71.0,75.3,68.0,9.2,2.97,2,0,1
+STD10437,20,Sistem Informasi,Hybrid,87.6,95.3,87.3,77.6,7.5,3.05,3,0,0
+STD10438,18,Sistem Informasi,Tatap Muka,83.7,91.1,51.4,83.6,6.9,,1,1,0
+STD10439,20,Sistem Informasi,Tatap Muka,74.2,,78.0,64.2,10.9,2.49,1,0,0
+STD10440,24,Teknik Industri,Tatap Muka,100.0,79.5,84.4,71.2,3.4,2.7,4,1,0
+STD10441,20,Informatika,Hybrid,78.5,73.9,67.4,88.3,13.5,2.72,1,0,1
+STD10442,22,Sistem Informasi,Tatap Muka,89.8,59.9,68.1,56.6,2.5,2.37,1,0,0
+STD10443,24,Informatika,Tatap Muka,57.8,,75.9,97.3,12.8,2.77,4,0,0
+STD10444,18,Informatika,Online,94.8,76.2,74.8,53.3,5.2,2.51,2,1,1
+STD10445,24,Sistem Informasi,Online,96.7,77.8,78.2,67.2,10.1,3.26,3,0,0
+STD10446,20,Teknik Industri,Tatap Muka,82.3,80.6,77.9,58.7,15.0,3.3,2,0,0
+STD10447,23,Sistem Informasi,Online,87.6,86.1,56.3,100.0,23.5,2.42,1,0,1
+STD10448,19,Informatika,Tatap Muka,87.6,66.7,83.9,65.0,6.6,2.87,4,0,0
+STD10449,19,Sistem Informasi,Online,75.6,66.8,86.3,65.0,11.2,3.84,3,0,1
+STD10450,24,Informatika,Online,87.5,92.4,72.6,66.8,8.4,2.56,2,1,1
+STD10451,24,Teknik Industri,Tatap Muka,73.9,84.3,49.1,73.3,7.7,3.19,2,0,1
+STD10452,25,Sistem Informasi,Hybrid,75.9,70.3,68.4,67.4,8.4,3.05,1,0,1
+STD10453,23,Informatika,Online,93.3,73.7,72.7,70.1,16.1,3.49,0,0,1
+STD10454,21,Informatika,Online,91.7,73.8,54.0,30.0,9.6,3.13,0,0,0
+STD10455,19,Informatika,Online,74.9,75.4,65.0,72.8,23.2,2.81,0,1,1
+STD10456,20,Teknik Industri,Hybrid,74.7,80.7,50.3,72.2,14.1,3.03,2,1,0
+STD10457,23,Sistem Informasi,Tatap Muka,75.5,100.0,78.5,86.5,6.9,3.04,2,0,1
+STD10458,20,Teknik Industri,Online,89.3,77.3,72.3,90.3,10.2,2.96,2,0,1
+STD10459,21,Sistem Informasi,Hybrid,72.0,83.0,47.0,69.4,8.0,2.41,1,0,0
+STD10460,19,Sistem Informasi,Hybrid,85.6,54.8,74.9,83.4,16.0,3.56,3,1,0
+STD10461,21,Informatika,Tatap Muka,89.5,69.2,69.2,56.6,3.8,3.48,2,1,0
+STD10462,19,Teknik Industri,Hybrid,81.1,89.7,77.2,82.7,5.3,2.53,2,1,1
+STD10463,18,Informatika,Tatap Muka,92.1,79.8,64.5,64.0,9.0,2.86,1,0,0
+STD10464,19,Sistem Informasi,Hybrid,79.0,40.0,58.8,55.4,15.4,2.9,1,0,0
+STD10465,22,Sistem Informasi,Tatap Muka,79.9,83.1,59.2,69.4,18.2,2.48,2,1,0
+STD10466,20,Sistem Informasi,Hybrid,72.2,98.0,62.5,91.6,18.9,2.16,6,0,0
+STD10467,18,Teknik Industri,Online,92.2,51.0,70.3,74.5,14.6,2.7,2,1,0
+STD10468,22,Informatika,Hybrid,74.3,93.2,72.1,93.0,11.6,2.84,1,1,0
+STD10469,19,Sistem Informasi,Hybrid,85.5,41.7,67.3,61.5,16.0,2.35,3,1,0
+STD10470,18,Informatika,Tatap Muka,81.3,86.3,64.1,86.7,6.3,3.08,3,0,1
+STD10471,19,Sistem Informasi,Online,71.5,74.9,65.1,62.9,2.8,3.52,0,0,1
+STD10472,21,Informatika,Hybrid,75.9,46.8,100.0,75.2,14.2,3.38,3,1,0
+STD10473,25,Informatika,Tatap Muka,95.8,80.4,59.2,75.0,7.0,2.94,0,0,1
+STD10474,19,Informatika,Tatap Muka,84.0,88.8,62.2,81.3,11.7,2.17,2,1,1
+STD10475,20,Informatika,Tatap Muka,71.9,79.4,100.0,75.5,12.6,3.32,3,0,1
+STD10476,19,Informatika,Hybrid,85.1,82.0,75.9,61.7,13.2,3.07,0,1,0
+STD10477,20,Sistem Informasi,Online,80.5,70.1,50.7,84.3,16.7,3.19,2,1,1
+STD10478,23,Sistem Informasi,Hybrid,,52.7,81.8,96.2,16.2,3.87,5,0,0
+STD10479,20,Informatika,Tatap Muka,84.9,,57.3,63.8,13.0,2.63,3,0,0
+STD10480,23,Informatika,Online,78.2,96.0,82.7,46.3,9.8,1.71,0,0,0
+STD10481,25,Informatika,Tatap Muka,96.2,88.6,67.0,79.0,,2.53,0,1,1
+STD10482,25,Sistem Informasi,Online,63.6,51.1,63.8,67.4,9.0,3.22,1,0,0
+STD10483,22,Informatika,Tatap Muka,82.9,56.8,92.5,70.2,11.0,3.01,4,0,0
+STD10484,23,Informatika,Hybrid,100.0,64.8,77.9,79.8,25.1,2.45,4,1,1
+STD10485,25,Informatika,Online,80.8,55.9,83.6,65.6,12.9,2.36,1,1,1
+STD10486,24,Sistem Informasi,Tatap Muka,64.7,75.5,76.1,68.2,14.3,2.84,0,1,0
+STD10487,20,Informatika,Hybrid,78.0,79.7,63.8,70.6,8.5,2.44,2,0,0
+STD10488,19,Sistem Informasi,Online,96.5,57.8,78.6,92.6,17.1,3.23,3,1,1
+STD10489,18,Sistem Informasi,Tatap Muka,85.8,84.3,86.9,72.4,,2.81,1,1,1
+STD10490,25,Sistem Informasi,Tatap Muka,73.6,82.2,71.9,54.7,15.8,2.72,3,0,0
+STD10491,22,Sistem Informasi,Hybrid,75.1,68.4,95.2,55.3,13.1,2.66,1,1,0
+STD10492,20,Sistem Informasi,Tatap Muka,76.4,72.9,81.9,73.9,17.2,3.12,1,0,1
+STD10493,20,Informatika,Tatap Muka,85.6,51.6,73.0,56.2,18.4,3.02,3,1,0
+STD10494,20,Teknik Industri,Hybrid,95.4,71.0,73.5,50.1,13.4,3.09,3,1,0
+STD10495,24,Sistem Informasi,Hybrid,92.5,75.1,71.9,80.9,11.4,3.08,2,0,1
+STD10496,22,Informatika,Tatap Muka,86.6,77.0,52.5,81.6,16.5,2.97,1,0,0
+STD10497,25,Sistem Informasi,Tatap Muka,68.7,79.5,68.7,66.8,7.5,2.54,3,0,0
+STD10498,20,Informatika,Online,68.7,77.9,73.1,76.1,8.4,2.67,2,0,0
+STD10499,21,Sistem Informasi,Hybrid,87.3,71.8,64.2,74.6,11.7,2.82,1,1,1
+STD10500,18,Sistem Informasi,Online,68.5,78.4,74.7,80.4,3.3,3.93,1,1,0
+STD10501,25,Teknik Industri,Tatap Muka,79.7,87.0,70.3,80.5,16.1,2.39,2,0,0
+STD10502,22,Teknik Industri,Online,85.0,73.9,80.8,35.5,7.2,2.81,1,0,0
+STD10503,22,Sistem Informasi,Hybrid,70.6,78.8,79.3,68.6,9.6,3.04,3,1,0
+STD10504,21,Sistem Informasi,Tatap Muka,71.8,72.8,72.3,79.3,10.9,2.86,0,0,1
+STD10505,20,Teknik Industri,Online,81.1,67.2,50.9,66.3,12.2,3.48,4,0,0
+STD10506,25,Informatika,Hybrid,87.0,81.3,95.1,72.5,10.3,2.86,2,0,1
+STD10507,21,Teknik Industri,Tatap Muka,92.6,,68.0,82.5,11.7,2.89,2,0,1
+STD10508,23,Sistem Informasi,Tatap Muka,88.1,79.6,68.9,73.1,11.7,3.37,4,0,0
+STD10509,18,Informatika,Hybrid,82.7,75.3,65.2,93.1,9.8,,3,1,1
+STD10510,20,Informatika,Tatap Muka,74.5,71.4,63.2,87.8,8.1,3.63,1,0,0
+STD10511,24,Teknik Industri,Tatap Muka,71.3,71.1,91.6,70.3,17.4,2.94,5,0,0
+STD10512,18,Informatika,Tatap Muka,76.9,68.9,89.4,69.2,1.5,2.98,0,1,1
+STD10513,18,Informatika,Tatap Muka,86.1,55.3,76.2,32.1,11.0,3.02,6,1,0
+STD10514,24,Informatika,Tatap Muka,85.4,79.6,68.5,67.4,9.7,3.07,2,0,0
+STD10515,20,Informatika,Hybrid,61.0,77.8,78.7,53.1,14.1,2.62,0,1,0
+STD10516,20,Informatika,Tatap Muka,74.1,85.2,71.0,75.1,4.7,3.42,2,1,0
+STD10517,22,Sistem Informasi,Tatap Muka,94.0,68.6,67.3,74.1,9.5,3.09,3,1,0
+STD10518,19,Informatika,Hybrid,82.8,97.7,74.7,81.7,11.5,2.98,3,0,0
+STD10519,18,Teknik Industri,Tatap Muka,67.8,70.4,63.8,91.6,60.0,2.43,1,0,1
+STD10520,18,Teknik Industri,Hybrid,100.0,64.5,73.5,71.6,13.7,3.03,3,0,0
+STD10521,18,Informatika,Tatap Muka,81.7,63.1,72.9,100.0,6.1,2.15,6,1,0
+STD10522,19,Informatika,Tatap Muka,85.8,54.2,78.4,75.3,9.6,2.74,1,1,1
+STD10523,23,Sistem Informasi,Tatap Muka,86.0,93.4,61.3,53.7,16.4,2.75,2,0,0
+STD10524,20,Informatika,Hybrid,78.3,91.5,79.9,64.1,6.0,3.13,0,0,0
+STD10525,18,Informatika,Tatap Muka,74.7,82.2,57.3,66.8,11.6,3.85,0,0,1
+STD10526,18,Teknik Industri,Online,100.0,64.2,62.0,80.3,12.0,3.26,1,0,1
+STD10527,21,Teknik Industri,Tatap Muka,92.0,96.7,62.6,58.7,10.1,3.65,4,1,1
+STD10528,24,Teknik Industri,Hybrid,90.2,70.8,55.0,67.8,25.5,3.29,1,0,1
+STD10529,20,Informatika,Hybrid,87.8,71.8,84.2,69.7,9.9,3.51,4,1,0
+STD10530,18,Sistem Informasi,Tatap Muka,72.0,92.2,56.4,65.7,14.2,3.84,3,0,0
+STD10531,19,Sistem Informasi,Hybrid,94.8,82.9,60.2,83.4,8.2,2.67,3,1,1
+STD10532,21,Informatika,Tatap Muka,73.6,100.0,87.6,81.0,14.6,2.64,1,1,0
+STD10533,19,Sistem Informasi,Tatap Muka,,78.0,62.0,88.3,16.4,3.3,1,0,1
+STD10534,25,Informatika,Tatap Muka,65.6,70.2,67.4,67.4,9.1,3.0,1,1,0
+STD10535,24,Informatika,Hybrid,61.6,67.7,55.8,88.8,11.7,3.1,0,1,0
+STD10536,20,Sistem Informasi,Online,85.2,52.8,81.7,52.9,7.5,2.89,2,1,0
+STD10537,25,Informatika,Tatap Muka,73.9,71.7,81.9,52.6,6.3,2.73,3,0,0
+STD10538,20,Informatika,Hybrid,62.1,88.7,80.3,55.0,17.2,3.73,2,0,0
+STD10539,19,Teknik Industri,Hybrid,87.4,82.2,77.5,72.1,9.2,2.51,5,0,0
+STD10540,25,Teknik Industri,Tatap Muka,100.0,75.2,71.0,88.8,1.0,3.31,1,1,0
+STD10541,25,Sistem Informasi,Hybrid,95.9,63.1,62.7,63.6,20.8,3.24,2,0,1
+STD10542,20,Teknik Industri,Hybrid,,77.7,58.6,65.3,8.0,2.29,6,1,0
+STD10543,22,Teknik Industri,Online,82.1,87.2,88.1,69.0,10.8,2.63,3,0,0
+STD10544,19,Informatika,Online,90.9,80.2,80.7,80.0,20.2,2.7,1,1,1
+STD10545,23,Informatika,Tatap Muka,93.2,,60.3,65.3,11.3,,2,0,0
+STD10546,23,Informatika,Tatap Muka,78.6,65.4,70.6,64.5,11.2,2.83,2,0,0
+STD10547,23,Informatika,Hybrid,82.3,85.4,65.8,53.2,5.9,,1,0,0
+STD10548,22,Teknik Industri,Tatap Muka,85.0,40.0,54.2,64.0,3.8,2.34,4,0,0
+STD10549,23,Informatika,Tatap Muka,87.5,79.6,72.5,88.5,11.2,4.0,4,1,1
+STD10550,22,Sistem Informasi,Online,80.7,100.0,64.2,73.3,13.8,3.03,0,0,1
+STD10551,24,Informatika,Tatap Muka,80.8,56.9,56.7,61.6,13.5,3.22,2,0,1
+STD10552,19,Informatika,Hybrid,95.8,72.1,49.3,89.3,9.6,2.76,3,1,0
+STD10553,21,Teknik Industri,Online,94.1,74.9,48.1,63.8,12.1,2.71,5,0,0
+STD10554,21,Informatika,Tatap Muka,86.8,69.4,64.8,91.9,2.8,3.86,4,0,0
+STD10555,22,Informatika,Hybrid,99.2,87.4,68.8,91.7,14.3,2.14,1,1,1
+STD10556,19,Informatika,Online,78.1,80.7,57.7,72.8,12.8,3.13,2,0,0
+STD10557,20,Sistem Informasi,Hybrid,98.2,76.8,79.1,51.0,21.9,2.45,0,0,0
+STD10558,25,Sistem Informasi,Tatap Muka,87.4,84.6,69.1,100.0,12.0,2.82,2,0,1
+STD10559,18,Sistem Informasi,Tatap Muka,100.0,75.2,78.1,77.4,7.3,2.71,2,0,0
+STD10560,23,Informatika,Online,70.1,100.0,67.4,67.5,11.7,2.56,2,0,1
+STD10561,23,Informatika,Tatap Muka,75.1,76.8,59.0,85.4,10.4,3.02,1,1,0
+STD10562,21,Teknik Industri,Hybrid,86.2,77.3,71.6,81.8,14.2,1.84,1,0,1
+STD10563,18,Sistem Informasi,Tatap Muka,86.0,54.5,52.3,90.4,12.1,2.86,1,1,0
+STD10564,18,Sistem Informasi,Tatap Muka,100.0,68.5,77.6,62.7,5.7,2.96,1,0,1
+STD10565,20,Sistem Informasi,Online,75.3,88.8,56.9,76.5,3.8,2.39,2,0,0
+STD10566,18,Teknik Industri,Hybrid,91.0,59.0,82.9,55.4,13.3,3.68,2,0,1
+STD10567,18,Informatika,Online,93.6,49.1,65.3,81.3,18.9,2.73,5,0,1
+STD10568,19,Informatika,Tatap Muka,89.0,75.4,84.9,71.7,12.4,2.89,2,0,0
+STD10569,19,Sistem Informasi,Hybrid,72.4,91.4,54.3,75.9,16.1,2.73,3,1,0
+STD10570,24,Informatika,Online,96.1,75.5,60.5,70.0,17.1,2.96,2,1,1
+STD10571,23,Teknik Industri,Tatap Muka,94.3,71.0,75.3,68.5,13.3,3.59,1,1,1
+STD10572,18,Sistem Informasi,Tatap Muka,88.0,52.7,86.4,59.8,7.9,4.0,4,0,0
+STD10573,23,Teknik Industri,Online,84.0,80.4,93.3,83.1,13.0,3.34,1,1,1
+STD10574,19,Teknik Industri,Tatap Muka,84.3,82.9,70.6,92.9,18.0,3.49,1,0,1
+STD10575,21,Sistem Informasi,Hybrid,81.2,,95.7,64.2,14.6,3.77,1,1,1
+STD10576,18,Teknik Industri,Online,88.4,88.6,65.9,79.7,15.7,3.11,2,1,1
+STD10577,18,Sistem Informasi,Tatap Muka,82.3,,85.4,78.1,9.7,3.71,2,0,0
+STD10578,19,Teknik Industri,Tatap Muka,73.5,88.6,56.8,72.1,11.0,3.36,1,0,1
+STD10579,21,Informatika,Tatap Muka,71.5,82.0,75.9,50.6,,3.06,2,1,0
+STD10580,21,Sistem Informasi,Tatap Muka,74.5,82.8,37.2,53.8,11.7,3.16,2,0,0
+STD10581,20,Sistem Informasi,Tatap Muka,84.2,81.2,54.3,61.1,17.8,2.18,2,1,0
+STD10582,22,Informatika,Hybrid,81.7,85.4,76.5,42.1,1.0,3.13,2,1,0
+STD10583,23,Informatika,Tatap Muka,84.2,53.2,51.6,91.7,12.2,2.31,3,0,0
+STD10584,23,Teknik Industri,Hybrid,87.0,57.0,76.0,77.1,11.6,2.27,1,0,0
+STD10585,22,Sistem Informasi,Tatap Muka,75.7,66.2,82.7,71.6,5.1,3.09,3,0,0
+STD10586,22,Informatika,Tatap Muka,96.7,73.4,63.0,41.3,15.4,2.5,3,1,1
+STD10587,21,Informatika,Tatap Muka,79.3,79.7,56.4,46.5,8.4,3.0,4,0,0
+STD10588,19,Informatika,Hybrid,77.7,,63.4,72.0,10.2,3.06,3,0,0
+STD10589,21,Informatika,Hybrid,86.8,88.4,56.5,99.6,21.2,3.08,1,0,1
+STD10590,18,Teknik Industri,Tatap Muka,63.6,88.8,68.6,62.2,17.0,2.59,5,1,0
+STD10591,25,Informatika,Online,74.1,64.5,71.4,84.1,14.9,3.4,2,1,1
+STD10592,20,Informatika,Hybrid,91.8,77.9,65.7,65.3,13.9,2.96,1,0,1
+STD10593,24,Sistem Informasi,Tatap Muka,64.6,64.8,93.4,72.8,11.2,3.2,2,1,1
+STD10594,25,Informatika,Online,93.2,72.7,59.9,89.0,22.0,2.46,1,1,1
+STD10595,21,Informatika,Tatap Muka,,78.9,89.5,67.2,16.0,2.92,1,1,1
+STD10596,24,Sistem Informasi,Tatap Muka,78.3,40.0,55.4,62.3,8.3,3.49,2,0,0
+STD10597,21,Sistem Informasi,Hybrid,84.9,100.0,71.0,91.9,5.0,3.44,1,0,1
+STD10598,19,Teknik Industri,Tatap Muka,93.2,81.8,86.6,72.6,14.8,2.64,3,1,1
+STD10599,18,Sistem Informasi,Tatap Muka,77.3,67.9,85.8,87.3,11.7,2.75,4,0,1
+STD10600,19,Sistem Informasi,Hybrid,90.7,98.1,64.1,62.4,4.9,2.56,4,0,0
+STD10601,25,Teknik Industri,Tatap Muka,75.3,70.8,77.8,91.7,14.1,2.7,5,1,1
+STD10602,21,Teknik Industri,Online,77.2,76.6,75.9,75.8,10.7,2.37,1,0,0
+STD10603,20,Sistem Informasi,Online,74.0,69.2,62.4,78.1,14.7,2.94,2,0,0
+STD10604,21,Teknik Industri,Hybrid,85.4,94.8,78.6,73.8,14.2,3.28,2,0,1
+STD10605,20,Teknik Industri,Hybrid,93.6,73.7,96.1,64.9,9.0,2.65,3,0,0
+STD10606,24,Teknik Industri,Hybrid,80.2,76.8,76.6,72.0,15.2,2.96,1,0,0
+STD10607,25,Informatika,Online,69.3,89.4,77.9,65.8,9.5,2.9,3,0,0
+STD10608,18,Sistem Informasi,Tatap Muka,71.2,82.0,79.4,85.4,9.8,3.47,0,0,1
+STD10609,23,Informatika,Tatap Muka,85.9,74.3,49.5,69.2,9.3,2.72,4,1,0
+STD10610,20,Sistem Informasi,Hybrid,100.0,88.3,76.4,51.0,17.7,2.74,0,0,1
+STD10611,18,Sistem Informasi,Hybrid,85.9,100.0,55.8,48.5,10.6,2.62,3,0,0
+STD10612,25,Teknik Industri,Tatap Muka,78.1,78.8,61.7,47.8,18.9,2.49,2,1,0
+STD10613,18,Teknik Industri,Hybrid,89.7,76.4,100.0,80.7,20.9,3.24,3,0,0
+STD10614,19,Informatika,Tatap Muka,79.6,77.0,66.5,55.9,8.3,2.94,3,0,0
+STD10615,18,Sistem Informasi,,78.2,90.7,59.6,76.2,1.0,3.02,2,0,1
+STD10616,21,Sistem Informasi,Tatap Muka,72.4,67.8,86.1,73.9,17.2,3.57,0,1,1
+STD10617,22,Informatika,Tatap Muka,96.1,71.7,56.7,71.1,10.3,3.6,0,0,0
+STD10618,20,Informatika,Tatap Muka,56.6,56.6,63.7,78.1,7.7,2.26,2,0,0
+STD10619,18,Informatika,Tatap Muka,90.0,60.8,87.5,74.2,9.1,3.29,0,0,1
+STD10620,18,Teknik Industri,Tatap Muka,77.4,68.8,70.6,34.1,9.9,3.1,1,1,0
+STD10621,25,Sistem Informasi,Tatap Muka,77.9,74.3,48.1,67.5,18.5,2.79,1,1,1
+STD10622,24,Teknik Industri,Tatap Muka,98.9,96.2,77.6,78.0,12.8,3.15,1,1,1
+STD10623,25,Sistem Informasi,Tatap Muka,74.9,81.4,64.4,95.0,18.4,2.22,3,1,0
+STD10624,22,Teknik Industri,Tatap Muka,75.2,64.1,91.6,95.6,14.5,3.66,2,0,1
+STD10625,22,Informatika,Tatap Muka,80.7,66.3,61.5,52.9,10.5,3.23,1,0,0
+STD10626,24,Teknik Industri,Tatap Muka,86.1,91.5,84.7,67.1,10.0,2.61,2,0,1
+STD10627,22,Informatika,Tatap Muka,77.6,88.5,94.9,50.1,14.8,2.74,1,0,0
+STD10628,21,Sistem Informasi,Tatap Muka,66.3,75.3,58.1,93.3,16.1,2.23,0,0,0
+STD10629,20,Teknik Industri,Tatap Muka,73.3,69.7,67.3,86.2,17.0,2.86,1,0,1
+STD10630,21,Teknik Industri,Tatap Muka,94.8,88.5,75.4,76.9,10.7,2.78,2,1,0
+STD10631,18,Teknik Industri,Hybrid,82.7,63.1,58.0,74.3,12.9,2.4,5,1,0
+STD10632,19,Informatika,Online,86.5,79.7,73.8,91.3,14.9,3.35,1,0,1
+STD10633,23,Informatika,Online,79.4,100.0,66.9,89.0,10.1,3.57,1,0,0
+STD10634,24,Informatika,Hybrid,75.4,77.5,66.6,88.2,6.3,2.99,1,0,1
+STD10635,18,Informatika,Hybrid,98.8,65.7,70.7,78.4,8.0,2.86,0,0,1
+STD10636,18,Sistem Informasi,Tatap Muka,80.1,79.9,71.0,67.1,10.8,3.2,5,0,1
+STD10637,18,Sistem Informasi,Hybrid,77.6,69.4,72.3,82.7,15.3,2.99,2,0,0
+STD10638,24,Teknik Industri,Hybrid,93.0,58.3,61.6,83.4,18.3,2.51,3,0,0
+STD10639,20,Teknik Industri,Online,74.8,83.4,62.2,69.3,5.2,2.71,0,1,0
+STD10640,20,Sistem Informasi,Online,76.1,88.4,68.3,67.1,9.0,2.87,0,0,0
+STD10641,18,Teknik Industri,Tatap Muka,82.1,71.3,69.4,87.9,10.2,3.11,3,0,0
+STD10642,25,Informatika,Hybrid,82.0,70.5,63.9,95.3,16.0,3.0,1,0,0
+STD10643,21,Informatika,Online,84.6,63.5,74.5,61.5,9.4,,2,0,0
+STD10644,24,Sistem Informasi,Tatap Muka,100.0,73.2,44.6,68.3,9.9,2.31,2,0,1
+STD10645,23,Teknik Industri,Online,85.4,68.3,59.8,76.9,4.9,3.3,2,1,0
+STD10646,19,Informatika,Tatap Muka,58.2,62.9,66.1,78.8,14.4,3.0,0,0,0
+STD10647,24,Sistem Informasi,Online,85.3,97.7,58.0,64.7,11.2,4.0,2,0,0
+STD10648,22,Sistem Informasi,Hybrid,82.4,80.6,92.8,98.4,8.7,2.83,4,1,0
+STD10649,22,Informatika,Tatap Muka,82.4,81.9,70.3,77.9,10.7,3.15,1,0,1
+STD10650,19,Informatika,Hybrid,84.5,85.6,72.5,79.4,17.6,4.0,3,0,1
+STD10651,24,Teknik Industri,Tatap Muka,81.7,84.3,63.2,96.6,7.0,,1,0,1
+STD10652,25,Sistem Informasi,Hybrid,81.5,70.0,69.8,65.7,7.8,2.97,2,0,0
+STD10653,21,Informatika,Hybrid,88.1,78.3,53.0,70.8,18.3,2.56,1,1,1
+STD10654,18,Teknik Industri,Hybrid,76.6,71.8,67.6,54.5,12.4,3.69,1,0,1
+STD10655,24,Informatika,Online,72.5,80.3,56.9,69.6,,2.48,2,1,1
+STD10656,25,Teknik Industri,Tatap Muka,100.0,79.1,66.1,51.2,14.0,3.19,2,0,0
+STD10657,22,Informatika,Tatap Muka,74.8,70.4,34.2,82.5,11.8,2.79,2,1,0
+STD10658,22,Sistem Informasi,Tatap Muka,83.0,59.0,54.2,77.9,10.3,2.91,3,1,0
+STD10659,19,Informatika,Tatap Muka,67.0,76.8,90.5,68.1,16.2,2.36,2,1,0
+STD10660,18,Informatika,Tatap Muka,83.2,72.5,81.6,70.6,17.8,3.6,2,1,1
+STD10661,25,Teknik Industri,Tatap Muka,72.7,52.3,88.5,82.7,17.4,2.87,2,1,1
+STD10662,21,Informatika,Tatap Muka,77.6,,89.4,56.1,6.1,2.45,1,0,0
+STD10663,20,Informatika,Tatap Muka,92.5,86.6,79.4,74.9,18.5,3.56,0,0,1
+STD10664,23,Informatika,Online,86.7,100.0,63.7,81.8,10.2,2.77,4,0,0
+STD10665,18,Sistem Informasi,Tatap Muka,87.7,70.3,55.5,47.0,8.2,3.15,6,0,0
+STD10666,18,Teknik Industri,Online,64.3,,86.1,81.6,11.2,3.38,4,0,0
+STD10667,19,Teknik Industri,Tatap Muka,100.0,61.7,70.9,48.6,16.2,3.21,0,1,0
+STD10668,21,Informatika,Tatap Muka,70.1,77.5,100.0,70.4,14.7,2.01,6,1,1
+STD10669,20,Informatika,,97.3,77.4,64.9,55.7,10.7,3.31,3,1,1
+STD10670,19,Informatika,Tatap Muka,92.2,65.3,97.6,92.0,16.2,2.95,1,0,1
+STD10671,20,Sistem Informasi,Tatap Muka,87.8,72.9,67.8,55.8,12.7,2.85,3,1,0
+STD10672,20,Teknik Industri,Hybrid,73.5,51.3,88.7,48.9,9.1,2.95,2,1,0
+STD10673,22,Sistem Informasi,Tatap Muka,83.5,86.1,93.8,73.9,8.5,2.28,0,1,1
+STD10674,22,Sistem Informasi,Tatap Muka,77.3,65.8,55.7,66.2,60.0,3.09,2,1,0
+STD10675,25,Informatika,Hybrid,82.3,74.6,63.2,50.9,11.6,2.39,1,0,0
+STD10676,24,Teknik Industri,Tatap Muka,79.5,57.9,55.5,79.4,5.1,2.87,3,0,0
+STD10677,20,Sistem Informasi,Online,61.6,68.0,52.8,44.1,16.2,3.07,3,1,0
+STD10678,25,Informatika,Tatap Muka,93.2,71.6,79.3,57.5,9.6,3.48,3,1,1
+STD10679,22,Informatika,Online,81.2,74.9,67.2,63.9,20.0,2.63,5,1,0
+STD10680,19,Informatika,Hybrid,77.2,80.8,70.7,83.2,5.0,3.65,2,1,1
+STD10681,20,Informatika,Online,76.4,92.3,77.8,90.1,11.1,3.43,4,1,1
+STD10682,23,Informatika,Online,85.6,83.8,44.0,87.4,8.5,2.81,2,1,1
+STD10683,24,Sistem Informasi,Tatap Muka,73.1,86.5,88.0,69.9,7.1,2.5,1,1,0
+STD10684,20,Sistem Informasi,Hybrid,59.4,92.4,65.1,38.0,9.6,2.35,2,1,0
+STD10685,19,Informatika,Tatap Muka,86.1,81.8,77.5,77.5,20.9,3.12,1,0,1
+STD10686,19,Informatika,Online,87.2,74.6,78.7,92.6,12.7,2.67,3,0,1
+STD10687,18,Teknik Industri,Hybrid,80.0,87.1,89.2,89.3,8.0,3.54,5,0,0
+STD10688,23,Teknik Industri,Tatap Muka,70.5,87.9,68.5,78.5,2.9,2.69,6,0,0
+STD10689,22,Sistem Informasi,Online,82.9,82.8,40.3,55.3,3.4,2.59,3,1,0
+STD10690,21,Informatika,Tatap Muka,67.4,57.5,70.8,64.6,9.3,3.11,4,1,0
+STD10691,23,Teknik Industri,Hybrid,71.7,64.9,72.8,99.1,8.8,2.69,1,0,1
+STD10692,24,Informatika,Hybrid,74.5,71.7,55.5,52.2,10.9,3.0,2,0,0
+STD10693,24,Informatika,Tatap Muka,90.4,84.4,72.1,55.9,1.0,3.44,4,0,0
+STD10694,19,Teknik Industri,Hybrid,78.4,,64.9,85.2,11.5,3.05,0,1,1
+STD10695,22,Sistem Informasi,Online,77.5,88.6,51.2,66.0,17.1,3.05,2,0,0
+STD10696,25,Sistem Informasi,Tatap Muka,100.0,90.8,79.4,55.5,20.1,3.09,3,0,1
+STD10697,24,Sistem Informasi,Hybrid,85.5,89.4,62.1,93.4,2.5,2.24,2,0,0
+STD10698,20,Sistem Informasi,Tatap Muka,85.4,89.5,64.3,78.5,8.0,3.18,2,0,1
+STD10699,21,Informatika,Hybrid,78.3,62.6,63.5,66.7,7.7,3.07,6,0,0
+STD10700,25,Informatika,Tatap Muka,76.0,80.8,87.3,56.0,12.7,3.4,3,1,1
+STD10701,18,Informatika,Online,60.1,67.7,69.4,100.0,5.9,3.27,2,1,0
+STD10702,22,Informatika,Online,91.7,55.2,71.1,71.7,20.4,2.91,1,0,0
+STD10703,18,Teknik Industri,Tatap Muka,86.5,71.6,63.8,91.6,12.2,3.46,2,0,0
+STD10704,25,Informatika,Tatap Muka,80.2,90.9,76.5,84.5,11.4,2.87,2,0,1
+STD10705,18,Sistem Informasi,Hybrid,80.6,80.5,88.9,64.7,20.0,3.11,1,0,0
+STD10706,18,Teknik Industri,Hybrid,89.4,99.2,79.1,64.8,11.9,2.86,3,0,1
+STD10707,20,Teknik Industri,Tatap Muka,66.5,77.1,79.6,92.2,14.0,3.21,1,0,0
+STD10708,19,Informatika,Tatap Muka,76.1,100.0,78.5,92.5,8.2,2.83,4,0,1
+STD10709,21,Sistem Informasi,Tatap Muka,70.6,77.1,50.7,45.7,5.1,3.74,1,1,1
+STD10710,20,Teknik Industri,Online,99.7,75.3,57.7,79.7,8.9,3.91,1,0,1
+STD10711,20,Sistem Informasi,Hybrid,90.8,59.6,67.1,70.3,22.9,3.39,3,1,1
+STD10712,22,Teknik Industri,Online,60.0,88.3,59.8,57.5,15.2,3.69,0,0,0
+STD10713,22,Teknik Industri,Hybrid,66.9,69.0,55.1,75.7,13.4,2.31,2,0,0
+STD10714,25,Teknik Industri,Online,80.7,67.2,43.8,53.1,7.1,2.36,2,0,0
+STD10715,21,Informatika,Tatap Muka,77.3,90.4,51.1,65.5,16.6,2.86,2,0,0
+STD10716,22,Sistem Informasi,Tatap Muka,68.8,88.9,66.4,60.8,5.2,3.02,4,0,0
+STD10717,23,Informatika,Online,100.0,88.6,69.0,65.0,4.2,2.91,3,1,0
+STD10718,19,Sistem Informasi,Online,85.1,70.7,58.9,71.0,9.2,2.26,2,1,0
+STD10719,23,Teknik Industri,Tatap Muka,86.7,74.4,71.1,57.8,21.8,3.52,1,0,1
+STD10720,24,Sistem Informasi,Tatap Muka,75.1,74.3,63.9,94.0,21.5,3.97,0,0,1
+STD10721,20,Informatika,Hybrid,89.2,84.4,85.3,78.9,9.7,3.58,2,0,1
+STD10722,19,Informatika,Tatap Muka,78.2,93.6,67.7,97.1,8.6,3.49,1,1,1
+STD10723,20,Teknik Industri,Tatap Muka,79.2,79.4,79.7,69.8,3.8,3.1,1,0,0
+STD10724,20,Informatika,Online,88.1,98.7,72.8,64.3,12.4,2.62,0,0,1
+STD10725,22,Informatika,Tatap Muka,65.7,85.8,50.4,96.6,12.8,3.03,3,1,1
+STD10726,24,Informatika,Hybrid,98.0,72.2,68.7,63.9,15.9,3.95,1,1,1
+STD10727,22,Informatika,Tatap Muka,83.8,84.9,52.7,69.5,16.6,2.84,2,1,0
+STD10728,19,Sistem Informasi,Tatap Muka,94.8,95.5,68.5,82.1,11.0,2.8,1,0,0
+STD10729,20,Sistem Informasi,Hybrid,71.2,99.0,59.6,54.7,14.8,3.5,5,0,0
+STD10730,23,Informatika,Tatap Muka,72.8,89.2,75.3,82.0,8.5,3.53,0,0,1
+STD10731,20,Informatika,Hybrid,70.4,75.3,51.2,80.2,14.7,2.62,2,1,0
+STD10732,22,Informatika,Tatap Muka,84.5,72.4,70.2,89.8,9.5,2.88,0,1,0
+STD10733,23,Informatika,Online,82.7,81.9,78.0,84.5,14.3,2.77,1,0,1
+STD10734,20,Informatika,Hybrid,77.4,95.1,82.7,90.2,13.9,3.03,2,1,1
+STD10735,23,Sistem Informasi,Online,71.9,80.2,59.3,70.5,12.3,3.5,1,0,1
+STD10736,21,Informatika,Tatap Muka,69.3,80.5,70.2,59.9,16.0,2.64,1,1,0
+STD10737,19,Informatika,Tatap Muka,81.5,75.6,72.6,100.0,4.1,3.49,0,0,1
+STD10738,20,Informatika,Tatap Muka,77.3,71.1,91.7,50.6,6.7,3.05,3,0,0
+STD10739,21,Informatika,Hybrid,75.1,73.1,49.3,52.0,10.6,4.0,3,0,1
+STD10740,18,Informatika,Tatap Muka,97.5,76.6,57.2,79.9,4.8,3.14,2,1,0
+STD10741,25,Informatika,Tatap Muka,81.2,95.6,100.0,94.7,10.0,2.96,2,0,1
+STD10742,22,Teknik Industri,Tatap Muka,94.7,72.1,66.2,74.7,10.1,3.26,3,0,1
+STD10743,18,Informatika,Tatap Muka,76.7,75.6,43.5,86.0,18.5,2.85,1,1,1
+STD10744,24,Sistem Informasi,Tatap Muka,84.4,64.6,61.8,44.1,12.7,2.19,3,1,0
+STD10745,24,Sistem Informasi,Tatap Muka,81.4,83.6,31.2,65.0,17.1,2.89,1,0,0
+STD10746,18,Informatika,Tatap Muka,65.0,91.4,73.4,45.8,13.5,2.88,1,1,0
+STD10747,19,Informatika,Hybrid,96.3,94.5,81.3,82.9,9.3,2.28,3,1,0
+STD10748,20,Teknik Industri,Tatap Muka,80.6,,57.2,50.3,12.7,2.97,1,0,0
+STD10749,22,Teknik Industri,Tatap Muka,89.5,81.9,63.4,54.1,15.6,2.07,4,0,0
+STD10750,23,Informatika,Hybrid,74.5,73.2,82.9,79.2,18.0,2.84,2,0,1
+STD10751,21,Informatika,Hybrid,80.4,81.3,45.5,86.9,11.3,3.11,5,0,0
+STD10752,22,Informatika,Tatap Muka,73.3,78.8,51.5,69.8,3.8,3.04,0,0,0
+STD10753,18,Sistem Informasi,Hybrid,94.4,75.7,66.8,80.0,3.4,2.82,1,0,1
+STD10754,23,Sistem Informasi,Online,85.1,76.7,59.5,79.5,10.4,2.96,2,0,1
+STD10755,25,Informatika,Hybrid,85.7,80.4,65.9,69.0,1.0,2.65,0,0,0
+STD10756,22,Informatika,Online,95.6,,52.3,56.7,21.0,3.0,1,1,0
+STD10757,21,Teknik Industri,Hybrid,93.6,72.1,73.0,79.9,15.0,3.03,1,1,1
+STD10758,20,Informatika,Tatap Muka,89.7,95.5,67.9,80.6,8.8,2.59,3,0,1
+STD10759,25,Sistem Informasi,Tatap Muka,67.8,100.0,77.7,84.5,6.5,3.12,1,1,1
+STD10760,18,Sistem Informasi,Hybrid,75.0,60.5,72.8,76.4,17.1,3.12,1,0,0
+STD10761,20,Informatika,Online,72.0,59.9,72.9,55.6,6.4,2.93,0,0,1
+STD10762,19,Informatika,Hybrid,89.3,63.5,49.8,81.7,6.9,4.0,0,0,0
+STD10763,24,Informatika,Tatap Muka,83.7,73.8,76.9,72.0,8.2,2.94,2,0,1
+STD10764,21,Teknik Industri,Hybrid,68.1,85.7,65.4,65.2,12.6,2.87,3,0,0
+STD10765,25,Informatika,Tatap Muka,80.1,82.1,67.7,67.9,15.1,2.81,4,1,0
+STD10766,23,Informatika,Hybrid,67.1,77.1,84.7,62.3,18.0,2.56,3,0,0
+STD10767,22,Informatika,Hybrid,81.5,81.3,59.9,84.4,17.2,3.31,2,0,1
+STD10768,22,Informatika,Hybrid,65.4,66.7,88.9,52.1,12.0,2.69,2,0,0
+STD10769,19,Sistem Informasi,Online,87.3,72.1,90.2,58.1,17.1,2.74,3,0,0
+STD10770,22,Informatika,Hybrid,85.8,74.8,80.5,67.4,8.6,2.76,0,1,0
+STD10771,23,Sistem Informasi,Hybrid,100.0,56.0,56.3,94.6,2.9,2.56,1,1,0
+STD10772,25,Sistem Informasi,Hybrid,90.5,,39.4,86.8,8.6,2.21,1,1,0
+STD10773,22,Teknik Industri,Online,77.8,61.5,85.1,49.0,8.0,2.79,2,0,0
+STD10774,25,Informatika,Online,90.2,84.2,71.6,90.9,8.8,3.39,2,0,0
+STD10775,25,Teknik Industri,Tatap Muka,68.0,77.9,59.6,90.9,7.2,3.09,3,0,0
+STD10776,22,Sistem Informasi,Hybrid,72.4,82.3,86.4,55.6,9.7,3.7,3,1,0
+STD10777,21,Informatika,Tatap Muka,,52.9,57.9,36.7,15.1,3.34,2,0,0
+STD10778,19,Teknik Industri,Online,60.4,57.2,64.1,71.0,20.6,3.24,1,0,0
+STD10779,20,Teknik Industri,Hybrid,81.6,83.0,77.3,87.7,3.4,3.85,3,0,0
+STD10780,25,Informatika,Tatap Muka,71.8,41.7,54.4,94.3,5.6,2.96,2,1,1
+STD10781,19,Teknik Industri,Tatap Muka,83.0,89.7,68.5,59.8,8.0,3.03,0,0,1
+STD10782,21,Sistem Informasi,Tatap Muka,71.2,53.1,85.2,96.5,15.8,2.99,2,1,1
+STD10783,23,Sistem Informasi,Hybrid,86.2,85.1,73.0,40.8,11.0,3.69,1,0,0
+STD10784,19,Teknik Industri,Tatap Muka,82.2,64.3,87.5,66.8,8.4,3.0,1,0,0
+STD10785,25,Informatika,Tatap Muka,96.0,87.6,85.9,66.2,15.6,2.71,0,0,1
+STD10786,23,Teknik Industri,Online,82.1,100.0,70.1,88.1,16.8,3.26,1,0,1
+STD10787,18,Informatika,Hybrid,74.3,47.7,37.3,90.2,,2.63,2,0,0
+STD10788,19,Teknik Industri,Tatap Muka,79.5,83.3,54.5,85.4,7.9,3.24,2,1,1
+STD10789,23,Sistem Informasi,Tatap Muka,68.6,53.3,80.7,53.1,13.4,3.19,3,0,1
+STD10790,24,Informatika,Online,86.1,80.1,48.3,84.1,10.8,2.91,1,0,1
+STD10791,25,Informatika,Hybrid,87.9,72.5,65.4,79.1,10.8,3.25,1,0,0
+STD10792,24,Informatika,Hybrid,100.0,76.6,74.7,48.6,9.4,2.33,2,0,0
+STD10793,18,Informatika,Tatap Muka,75.8,64.1,90.6,43.1,16.6,3.07,1,1,1
+STD10794,23,Informatika,Tatap Muka,79.3,84.4,61.9,86.5,13.2,2.79,2,0,1
+STD10795,18,Informatika,Tatap Muka,76.2,57.6,61.0,69.5,17.2,4.0,6,1,1
+STD10796,18,Informatika,Hybrid,84.1,89.9,69.3,54.0,18.7,3.07,2,0,1
+STD10797,23,Informatika,Tatap Muka,85.8,70.1,74.9,69.1,14.3,2.73,1,0,1
+STD10798,21,Sistem Informasi,Tatap Muka,81.5,58.2,67.8,77.1,9.5,2.38,3,1,0
+STD10799,23,Sistem Informasi,Hybrid,92.9,94.1,84.7,70.8,17.2,3.59,1,0,1
+STD10800,24,Sistem Informasi,Online,75.8,74.2,58.8,50.3,14.3,2.84,2,1,0
+STD10801,18,Informatika,Hybrid,91.9,97.9,71.7,98.4,60.0,2.64,3,0,1
+STD10802,22,Teknik Industri,Hybrid,87.4,89.7,76.2,86.1,,3.15,1,0,1
+STD10803,24,Sistem Informasi,Hybrid,81.9,65.4,64.4,67.3,15.5,3.29,1,1,0
+STD10804,21,Informatika,Tatap Muka,78.9,74.0,81.8,67.9,13.5,3.29,0,0,1
+STD10805,22,Informatika,Tatap Muka,100.0,76.5,72.1,77.0,11.5,3.01,1,1,0
+STD10806,21,Sistem Informasi,Hybrid,73.8,93.3,81.0,56.2,10.7,3.07,2,1,1
+STD10807,25,Informatika,Tatap Muka,85.0,80.3,72.7,76.5,13.5,3.1,4,0,0
+STD10808,18,Sistem Informasi,Hybrid,74.5,77.1,75.3,53.4,14.6,3.15,1,0,1
+STD10809,25,Teknik Industri,Online,99.9,72.6,61.1,71.0,17.8,3.19,1,1,1
+STD10810,24,Informatika,Online,,74.4,61.2,55.6,13.5,3.49,2,0,1
+STD10811,24,Informatika,Tatap Muka,75.2,90.7,87.1,56.3,9.7,3.03,1,1,0
+STD10812,21,Teknik Industri,Tatap Muka,87.1,75.0,78.9,95.0,10.4,2.63,2,0,0
+STD10813,22,Sistem Informasi,Tatap Muka,84.6,70.3,55.7,72.8,5.4,2.94,3,0,0
+STD10814,20,Informatika,Tatap Muka,76.8,68.2,72.5,74.9,20.3,,2,0,0
+STD10815,20,Teknik Industri,Tatap Muka,89.6,68.4,36.8,43.8,9.3,2.2,0,1,0
+STD10816,25,Teknik Industri,Tatap Muka,85.9,58.2,62.0,63.6,16.8,2.2,1,1,0
+STD10817,22,Sistem Informasi,Hybrid,84.2,66.0,83.5,78.5,13.4,3.41,1,0,1
+STD10818,23,Sistem Informasi,Hybrid,81.6,93.0,68.2,74.7,13.5,3.68,3,0,0
+STD10819,18,Informatika,Online,86.3,72.5,71.7,41.8,11.4,2.43,0,0,1
+STD10820,24,Informatika,Tatap Muka,84.3,83.5,30.0,74.9,8.1,3.05,5,0,0
+STD10821,23,Sistem Informasi,Tatap Muka,82.6,45.3,64.5,77.1,7.2,2.82,1,0,0
+STD10822,25,Informatika,Tatap Muka,75.6,81.8,74.7,90.0,20.6,2.88,3,0,0
+STD10823,19,Sistem Informasi,Tatap Muka,98.9,73.1,76.5,62.8,12.6,3.14,4,0,0
+STD10824,22,Teknik Industri,Tatap Muka,71.5,69.2,83.5,40.6,17.6,2.42,3,0,1
+STD10825,22,Informatika,Online,86.3,77.2,67.1,58.0,18.9,2.5,3,0,0
+STD10826,22,Sistem Informasi,Tatap Muka,78.8,69.1,67.7,56.6,9.9,2.86,3,1,0
+STD10827,18,Informatika,Tatap Muka,99.6,49.5,51.4,82.3,14.1,2.93,2,0,1
+STD10828,21,Teknik Industri,Hybrid,73.0,86.1,67.1,34.0,12.2,2.49,2,1,0
+STD10829,20,Informatika,Hybrid,74.6,77.9,52.3,65.7,6.2,3.36,1,0,0
+STD10830,22,Sistem Informasi,Hybrid,72.3,71.2,44.1,92.0,11.1,2.81,1,0,0
+STD10831,19,Sistem Informasi,Tatap Muka,85.2,63.4,54.8,72.1,14.9,2.81,0,1,0
+STD10832,21,Informatika,Online,68.3,57.4,91.1,84.5,9.5,3.13,1,0,1
+STD10833,22,Sistem Informasi,Tatap Muka,77.2,77.7,66.2,49.0,10.4,2.94,3,1,1
+STD10834,18,Sistem Informasi,Tatap Muka,60.5,94.4,73.1,49.6,11.1,3.38,3,0,0
+STD10835,24,Sistem Informasi,Hybrid,84.4,77.4,62.8,92.1,22.6,2.58,1,0,1
+STD10836,23,Teknik Industri,Online,77.0,58.4,44.9,73.4,2.8,2.37,1,1,0
+STD10837,18,Teknik Industri,Tatap Muka,67.1,77.7,83.1,73.4,14.5,2.86,0,0,0
+STD10838,18,Informatika,Hybrid,92.9,74.4,39.6,56.3,10.7,3.03,0,0,1
+STD10839,24,Sistem Informasi,Tatap Muka,68.9,85.4,62.2,73.4,8.8,2.44,1,0,0
+STD10840,20,Informatika,Tatap Muka,90.0,82.3,69.2,56.0,10.6,2.38,4,0,0
+STD10841,24,Teknik Industri,Tatap Muka,75.0,40.0,73.2,88.6,15.3,3.08,2,0,0
+STD10842,21,Sistem Informasi,Hybrid,98.0,81.5,59.8,100.0,15.6,2.66,3,1,0
+STD10843,20,Informatika,Tatap Muka,,63.0,44.3,78.8,12.9,2.35,1,0,0
+STD10844,20,Informatika,Hybrid,71.9,57.9,58.8,63.1,17.5,3.43,3,1,0
+STD10845,23,Teknik Industri,Tatap Muka,72.8,72.7,59.5,36.5,18.3,2.72,3,0,0
+STD10846,18,Informatika,Online,,79.9,59.2,48.4,16.1,3.52,1,0,0
+STD10847,21,Sistem Informasi,Online,79.4,55.3,83.6,93.8,9.3,3.01,3,0,0
+STD10848,20,Informatika,Tatap Muka,80.3,83.5,53.0,57.6,14.5,3.13,2,1,0
+STD10849,19,Teknik Industri,Tatap Muka,94.7,84.2,74.2,66.8,14.5,2.9,2,1,1
+STD10850,20,Informatika,Tatap Muka,74.5,75.6,72.2,81.2,7.9,1.81,2,0,0
+STD10851,22,Informatika,Online,82.9,64.6,83.4,92.8,4.2,2.49,4,0,0
+STD10852,23,Teknik Industri,Tatap Muka,91.5,63.2,68.1,69.2,1.9,2.94,3,1,0
+STD10853,18,Teknik Industri,Hybrid,90.1,87.3,81.1,66.3,12.3,3.16,2,0,0
+STD10854,24,Informatika,Tatap Muka,,56.9,67.6,73.0,13.5,2.19,1,0,0
+STD10855,25,Sistem Informasi,Hybrid,79.1,87.8,76.1,63.2,6.1,2.98,3,1,0
+STD10856,23,Sistem Informasi,Hybrid,64.6,73.0,49.0,64.0,17.2,2.49,1,0,0
+STD10857,25,Teknik Industri,Hybrid,71.4,73.8,33.1,77.8,12.8,3.11,2,1,0
+STD10858,21,Informatika,Online,85.2,54.5,75.3,74.6,18.7,2.99,3,1,0
+STD10859,24,Sistem Informasi,Tatap Muka,80.6,73.2,76.0,100.0,13.9,3.33,3,0,0
+STD10860,23,Sistem Informasi,Online,82.7,82.4,76.7,78.1,6.7,3.48,2,0,0
+STD10861,22,Sistem Informasi,Tatap Muka,92.4,59.0,62.7,88.1,14.3,3.21,0,0,1
+STD10862,19,Teknik Industri,Hybrid,70.1,81.0,90.9,57.0,15.4,3.39,1,1,0
+STD10863,22,Sistem Informasi,Online,79.6,76.1,63.6,79.4,9.3,2.84,6,0,0
+STD10864,25,Informatika,Hybrid,83.9,67.3,75.9,61.9,4.8,4.0,1,0,0
+STD10865,25,Teknik Industri,Hybrid,75.0,85.3,78.3,77.5,12.5,2.45,2,0,1
+STD10866,21,Teknik Industri,Tatap Muka,96.3,48.6,94.1,81.6,7.0,2.76,2,0,1
+STD10867,19,Teknik Industri,Tatap Muka,91.1,79.2,65.6,72.7,17.6,3.41,1,0,0
+STD10868,23,Informatika,Tatap Muka,84.9,94.4,60.9,100.0,,3.34,2,0,0
+STD10869,18,Informatika,Hybrid,99.9,92.3,49.0,92.0,20.6,3.22,2,0,0
+STD10870,19,Sistem Informasi,Hybrid,,79.7,91.7,88.5,1.4,3.3,2,0,1
+STD10871,22,Informatika,Tatap Muka,81.9,71.4,75.9,82.7,12.7,2.06,1,0,1
+STD10872,25,Teknik Industri,Tatap Muka,85.7,,76.3,96.7,19.1,3.72,2,0,1
+STD10873,20,Informatika,Tatap Muka,72.9,71.4,100.0,51.9,7.5,2.91,3,0,0
+STD10874,21,Sistem Informasi,Tatap Muka,85.0,81.5,74.6,91.2,60.0,3.56,0,0,0
+STD10875,20,Teknik Industri,Tatap Muka,70.9,65.3,51.8,58.1,10.0,2.08,3,0,0
+STD10876,21,Informatika,Online,88.9,84.1,67.3,64.1,8.6,3.12,2,0,0
+STD10877,18,Informatika,Hybrid,92.6,100.0,56.4,79.9,13.2,2.75,2,1,0
+STD10878,22,Sistem Informasi,Tatap Muka,84.7,74.3,64.5,89.3,5.5,3.26,1,0,1
+STD10879,22,Sistem Informasi,Hybrid,63.5,58.9,64.4,55.8,11.4,,1,0,0
+STD10880,20,Informatika,Online,72.3,58.9,61.8,64.8,14.6,3.16,2,0,0
+STD10881,20,Sistem Informasi,Tatap Muka,87.6,84.3,50.5,73.4,10.9,2.52,3,1,0
+STD10882,24,Teknik Industri,Tatap Muka,82.2,74.3,92.3,69.4,7.0,2.97,1,0,0
+STD10883,19,Sistem Informasi,Tatap Muka,55.1,85.5,74.2,84.0,,2.92,2,1,0
+STD10884,18,Informatika,Tatap Muka,94.4,68.6,66.8,100.0,15.7,3.22,1,0,1
+STD10885,18,Informatika,Hybrid,83.4,85.0,80.6,77.9,6.8,3.45,3,0,1
+STD10886,25,Informatika,Online,73.8,73.1,76.6,61.7,5.5,3.07,2,0,0
+STD10887,20,Informatika,Tatap Muka,91.9,66.2,73.9,53.8,7.2,2.43,0,1,0
+STD10888,18,Informatika,Hybrid,75.2,70.2,79.6,67.4,14.7,3.05,4,0,0
+STD10889,25,Sistem Informasi,Tatap Muka,75.1,60.6,71.9,58.8,13.4,4.0,2,1,1
+STD10890,19,Informatika,Hybrid,85.6,98.9,79.4,78.5,16.0,3.74,2,1,1
+STD10891,20,Teknik Industri,Hybrid,99.8,73.8,80.5,78.3,10.4,1.66,1,0,1
+STD10892,18,Informatika,Tatap Muka,98.2,82.7,72.3,65.5,7.4,3.03,3,0,1
+STD10893,23,Informatika,Tatap Muka,85.6,68.6,66.9,99.8,16.6,3.42,3,0,1
+STD10894,23,Teknik Industri,Hybrid,86.6,62.4,91.4,61.7,9.2,2.92,0,0,0
+STD10895,24,Teknik Industri,Online,89.9,72.2,63.3,70.3,12.9,2.79,2,0,0
+STD10896,20,Informatika,Tatap Muka,69.4,88.2,75.5,80.9,4.3,2.88,6,0,1
+STD10897,20,Informatika,Tatap Muka,88.4,68.8,75.8,84.5,9.2,3.25,3,1,1
+STD10898,25,Informatika,Tatap Muka,74.7,64.6,61.5,89.9,17.0,2.48,2,0,0
+STD10899,24,Sistem Informasi,Hybrid,85.2,76.9,58.7,78.0,8.4,3.53,2,1,1
+STD10900,18,Sistem Informasi,Hybrid,79.7,81.0,65.0,86.7,16.1,2.97,1,1,1
+STD10901,23,Informatika,Hybrid,87.0,94.7,63.1,62.7,1.0,2.58,0,0,0
+STD10902,24,Informatika,Hybrid,83.2,79.2,49.6,84.9,9.2,3.51,4,0,0
+STD10903,22,Sistem Informasi,Online,51.3,82.7,60.9,84.7,11.1,2.3,1,0,0
+STD10904,23,Teknik Industri,Online,83.8,83.6,73.7,93.2,20.7,2.75,2,1,1
+STD10905,18,Sistem Informasi,Tatap Muka,88.4,61.2,87.7,48.6,6.2,2.74,2,0,0
+STD10906,18,Sistem Informasi,Hybrid,86.5,63.4,77.8,59.3,15.4,3.96,1,1,0
+STD10907,18,Informatika,Tatap Muka,81.0,62.0,33.6,83.5,17.3,2.69,4,0,0
+STD10908,19,Informatika,Tatap Muka,98.4,59.0,79.0,34.9,8.4,2.03,1,0,0
+STD10909,25,Informatika,Online,85.1,84.5,62.2,78.9,10.1,2.74,4,1,1
+STD10910,23,Teknik Industri,Hybrid,86.4,78.5,76.3,86.8,12.7,3.2,0,0,1
+STD10911,24,Teknik Industri,Online,92.4,76.0,69.8,63.9,4.6,3.35,3,1,0
+STD10912,20,Teknik Industri,Tatap Muka,85.6,43.9,67.3,66.0,60.0,4.0,3,0,0
+STD10913,25,Teknik Industri,Hybrid,73.0,99.7,68.6,57.0,18.4,3.63,2,0,0
+STD10914,19,Teknik Industri,Hybrid,57.6,64.3,69.7,64.7,60.0,3.08,4,0,0
+STD10915,25,Teknik Industri,Tatap Muka,77.2,99.6,88.8,65.1,11.2,2.6,4,0,0
+STD10916,18,Informatika,Tatap Muka,89.6,57.6,69.7,62.4,12.6,3.73,5,1,0
+STD10917,18,Informatika,Hybrid,78.5,65.3,85.2,61.7,14.9,2.83,5,0,0
+STD10918,18,Informatika,Tatap Muka,90.0,48.6,83.2,68.2,15.9,2.7,3,0,1
+STD10919,24,Sistem Informasi,Online,83.5,79.3,79.3,68.0,9.2,2.81,1,0,0
+STD10920,20,Informatika,Tatap Muka,94.9,61.8,45.0,98.2,19.7,2.44,1,0,1
+STD10921,21,Teknik Industri,Tatap Muka,79.0,62.1,85.6,66.5,18.6,2.79,2,1,1
+STD10922,21,Sistem Informasi,Hybrid,86.7,58.5,63.6,76.8,,2.9,0,0,0
+STD10923,24,Sistem Informasi,Tatap Muka,87.1,84.3,80.0,63.9,7.8,3.33,3,1,1
+STD10924,20,Informatika,Online,97.0,83.5,56.4,63.7,6.9,2.83,1,0,0
+STD10925,18,Informatika,Hybrid,64.9,96.7,53.4,48.1,10.4,2.43,0,0,0
+STD10926,21,Informatika,Tatap Muka,77.4,66.8,97.7,50.0,12.3,2.28,2,0,0
+STD10927,20,Teknik Industri,Hybrid,90.5,77.6,56.6,55.1,3.2,3.09,3,0,1
+STD10928,23,Sistem Informasi,Hybrid,97.5,59.5,86.0,74.6,14.5,3.03,1,1,0
+STD10929,24,Sistem Informasi,Hybrid,84.4,71.0,71.7,87.1,18.4,2.75,4,1,1
+STD10930,18,Informatika,Online,79.1,68.8,64.1,47.0,14.9,2.79,1,0,0
+STD10931,24,Informatika,Hybrid,89.6,80.6,69.4,64.3,8.6,3.17,2,1,1
+STD10932,18,Informatika,,90.7,87.2,51.8,52.9,8.0,3.63,3,0,0
+STD10933,22,Teknik Industri,Tatap Muka,78.4,86.9,69.8,68.3,13.5,2.65,2,1,0
+STD10934,21,Teknik Industri,Hybrid,85.3,64.9,54.8,87.1,11.2,3.04,1,0,0
+STD10935,20,Informatika,Online,93.8,87.0,64.5,65.7,14.2,3.43,3,1,1
+STD10936,21,Teknik Industri,Hybrid,100.0,74.5,83.0,71.3,15.0,2.65,3,0,0
+STD10937,20,Informatika,Hybrid,89.4,71.1,73.6,92.4,17.5,2.99,2,1,1
+STD10938,24,Teknik Industri,Tatap Muka,82.4,66.5,49.2,78.4,6.3,2.98,1,1,0
+STD10939,25,Informatika,Hybrid,81.5,68.3,81.9,61.4,,2.41,5,0,0
+STD10940,24,Informatika,Online,87.6,95.9,69.9,74.2,10.2,3.08,2,0,0
+STD10941,21,Teknik Industri,Tatap Muka,80.8,78.7,62.4,60.4,11.5,3.01,0,0,0
+STD10942,22,Informatika,Tatap Muka,83.9,77.1,80.5,77.9,16.3,3.25,1,0,1
+STD10943,21,Informatika,Hybrid,71.4,71.9,67.7,79.2,16.9,2.47,3,0,1
+STD10944,24,Informatika,Hybrid,95.0,100.0,53.7,52.9,19.0,3.0,3,0,1
+STD10945,22,Informatika,Hybrid,70.6,90.7,95.9,74.5,14.1,3.62,3,1,1
+STD10946,21,Sistem Informasi,Tatap Muka,77.7,66.3,69.8,70.4,11.4,3.93,3,0,0
+STD10947,21,Teknik Industri,Tatap Muka,83.0,71.7,68.9,79.6,10.7,3.58,2,0,1
+STD10948,21,Teknik Industri,Hybrid,100.0,72.4,64.3,83.6,3.3,2.47,4,1,1
+STD10949,22,Informatika,Hybrid,77.8,76.8,86.5,78.7,18.7,3.2,1,0,1
+STD10950,23,Sistem Informasi,Hybrid,75.3,66.6,62.7,67.8,10.4,2.78,5,0,0
+STD10951,21,Informatika,Hybrid,76.5,80.3,48.4,85.1,14.5,3.13,0,1,0
+STD10952,24,Informatika,Hybrid,98.6,92.4,60.5,59.8,15.4,2.65,2,0,0
+STD10953,24,Informatika,Hybrid,53.9,59.2,88.6,53.5,5.8,2.23,3,0,0
+STD10954,21,Teknik Industri,Hybrid,72.0,61.5,81.6,30.0,7.4,2.84,2,0,0
+STD10955,25,Teknik Industri,Hybrid,100.0,69.2,66.4,71.0,19.7,3.33,3,1,1
+STD10956,19,Teknik Industri,Hybrid,87.9,69.8,89.2,60.5,13.5,3.13,4,0,0
+STD10957,25,Sistem Informasi,Tatap Muka,70.9,99.0,80.5,77.6,9.1,3.18,2,0,0
+STD10958,20,Sistem Informasi,Tatap Muka,81.6,87.0,66.3,44.4,11.4,3.1,1,0,1
+STD10959,22,Sistem Informasi,Hybrid,82.7,86.3,67.7,62.9,17.4,3.18,2,0,1
+STD10960,20,Sistem Informasi,Online,90.5,71.8,74.6,78.6,16.7,3.24,1,0,0
+STD10961,21,Informatika,Hybrid,100.0,71.6,58.4,57.6,4.7,2.88,7,0,0
+STD10962,20,Informatika,Tatap Muka,85.9,57.6,70.1,77.7,20.2,3.04,1,1,1
+STD10963,23,Informatika,Hybrid,76.6,84.4,74.3,64.2,16.8,3.78,4,0,1
+STD10964,18,Teknik Industri,Tatap Muka,89.9,80.9,46.4,71.5,11.2,3.06,1,1,0
+STD10965,24,Sistem Informasi,Hybrid,75.0,90.4,67.3,80.3,6.0,3.02,2,1,0
+STD10966,25,Teknik Industri,Online,71.7,72.5,65.8,85.3,17.3,3.05,3,1,0
+STD10967,22,Informatika,Hybrid,64.4,73.3,84.4,73.3,,2.9,1,1,1
+STD10968,22,Sistem Informasi,Hybrid,66.3,77.0,44.2,60.6,4.7,2.8,1,0,0
+STD10969,23,Informatika,Tatap Muka,73.0,85.7,64.7,65.6,10.8,3.09,4,1,1
+STD10970,19,Informatika,Tatap Muka,70.2,57.4,63.3,80.9,27.6,2.77,1,0,0
+STD10971,23,Informatika,Online,85.1,83.8,83.4,57.7,,2.93,3,0,0
+STD10972,19,Informatika,Hybrid,70.0,74.8,69.4,69.5,8.3,2.64,3,0,0
+STD10973,23,Teknik Industri,Hybrid,50.6,62.3,95.1,66.6,7.0,3.05,2,0,0
+STD10974,20,Informatika,Tatap Muka,71.6,50.0,79.3,70.6,20.9,3.26,1,0,0
+STD10975,23,Sistem Informasi,Tatap Muka,77.3,73.4,64.3,57.9,16.2,2.9,1,1,1
+STD10976,24,Sistem Informasi,Tatap Muka,75.9,92.4,73.4,46.1,19.0,2.1,5,0,0
+STD10977,19,Informatika,Tatap Muka,97.2,95.1,65.0,79.3,13.2,3.27,1,0,1
+STD10978,22,Sistem Informasi,Tatap Muka,75.9,79.3,82.0,85.5,,3.05,1,0,1
+STD10979,21,Informatika,Online,90.8,98.5,51.3,46.9,7.8,2.55,2,1,0
+STD10980,20,Teknik Industri,Hybrid,81.8,74.5,58.5,77.2,,3.35,3,0,1
+STD10981,22,Teknik Industri,Tatap Muka,81.6,86.4,76.4,87.2,13.4,2.37,2,0,0
+STD10982,25,Sistem Informasi,Tatap Muka,73.6,69.6,87.2,80.3,18.9,3.47,2,1,0
+STD10983,18,Sistem Informasi,Tatap Muka,81.4,68.8,39.2,66.2,13.6,2.97,0,1,0
+STD10984,25,Informatika,Online,74.3,66.9,89.2,58.8,8.9,1.98,1,0,0
+STD10985,24,Teknik Industri,Tatap Muka,83.7,50.3,68.0,73.1,12.3,3.08,2,0,1
+STD10986,22,Informatika,Hybrid,79.6,90.4,43.6,75.5,3.6,2.82,1,0,0
+STD10987,22,Informatika,Online,72.6,67.3,30.0,73.3,,2.75,4,1,0
+STD10988,20,Informatika,Tatap Muka,91.9,65.4,48.6,69.5,16.2,2.67,0,0,1
+STD10989,19,Teknik Industri,Hybrid,86.3,60.8,69.7,56.8,10.1,2.94,4,1,0
+STD10990,22,Sistem Informasi,Online,77.5,72.5,69.1,77.9,10.7,2.78,2,0,0
+STD10991,24,Teknik Industri,Tatap Muka,83.5,,78.9,78.6,16.2,2.16,0,0,1
+STD10992,19,Teknik Industri,Tatap Muka,81.2,100.0,62.3,74.8,19.0,3.57,2,0,1
+STD10993,23,Informatika,Online,73.3,55.1,54.5,73.6,14.7,2.89,3,0,0
+STD10994,23,Teknik Industri,Online,82.7,70.7,64.2,95.5,21.6,2.67,2,1,1
+STD10995,24,Informatika,Hybrid,75.8,62.6,70.5,63.3,14.5,2.49,1,1,0
+STD10996,20,Sistem Informasi,Hybrid,72.6,86.9,73.2,89.9,13.5,3.35,2,0,1
+STD10997,21,Informatika,Tatap Muka,65.8,78.4,59.0,61.7,13.2,2.42,1,1,0
+STD10998,21,Teknik Industri,Online,78.4,67.4,82.6,87.5,5.6,3.06,2,0,0
+STD10999,24,Informatika,Hybrid,87.7,75.9,61.3,89.3,16.8,2.74,1,0,1
+STD11000,25,Informatika,Tatap Muka,75.1,69.3,57.8,67.9,1.0,2.76,1,0,0
+STD11001,21,Sistem Informasi,Hybrid,100.0,94.4,62.4,95.3,9.1,2.5,4,0,1
+STD11002,25,Informatika,Online,90.9,81.6,85.0,78.6,12.1,2.72,3,1,1
+STD11003,22,Informatika,Online,95.0,83.0,68.1,59.7,8.1,3.0,1,0,0
+STD11004,21,Sistem Informasi,Tatap Muka,90.0,43.0,60.3,66.8,9.7,3.11,0,1,1
+STD11005,18,Informatika,Tatap Muka,100.0,74.2,83.0,87.9,21.2,2.65,3,0,0
+STD11006,22,Teknik Industri,Online,74.1,100.0,100.0,84.9,17.5,2.96,2,1,0
+STD11007,23,Informatika,Online,56.4,90.9,72.9,57.2,8.6,3.4,2,0,0
+STD11008,25,Sistem Informasi,Hybrid,77.5,52.8,87.3,70.1,9.7,2.25,1,0,0
+STD11009,23,Sistem Informasi,Hybrid,87.6,71.2,84.5,74.8,5.6,3.0,3,1,0
+STD11010,18,Sistem Informasi,Hybrid,83.5,60.6,61.5,64.9,15.5,2.57,8,0,0
+STD11011,22,Sistem Informasi,Tatap Muka,84.8,95.5,70.4,100.0,10.8,2.53,2,0,0
+STD11012,23,Sistem Informasi,Tatap Muka,95.2,77.9,52.0,75.3,2.2,3.12,1,1,0
+STD11013,21,Teknik Industri,Tatap Muka,85.8,65.8,67.1,71.1,12.5,2.75,2,1,1
+STD11014,21,Informatika,Tatap Muka,90.0,75.4,61.2,88.7,14.2,2.45,1,0,1
+STD11015,24,Informatika,Online,72.6,43.7,64.4,66.9,16.8,3.6,2,1,0
+STD11016,22,Sistem Informasi,Tatap Muka,71.0,62.0,59.5,86.1,11.6,3.41,3,1,0
+STD11017,23,Teknik Industri,Tatap Muka,98.1,75.4,66.0,48.7,10.1,2.13,4,1,0
+STD11018,21,Informatika,Hybrid,83.0,85.1,77.5,65.6,21.9,2.34,7,0,0
+STD11019,20,Informatika,Tatap Muka,75.8,51.7,68.3,86.7,12.0,3.27,1,0,0
+STD11020,22,Teknik Industri,Tatap Muka,75.8,70.4,43.9,94.0,15.6,2.87,2,1,1
+STD11021,25,Sistem Informasi,Hybrid,75.5,87.1,59.6,61.2,60.0,3.68,2,0,0
+STD11022,22,Teknik Industri,Tatap Muka,74.9,57.6,48.7,59.5,60.0,3.28,1,0,0
+STD11023,23,Sistem Informasi,Hybrid,69.2,77.8,73.4,79.9,4.7,3.13,0,1,0
+STD11024,18,Sistem Informasi,Online,67.0,75.8,77.0,63.3,9.7,2.54,2,0,0
+STD11025,25,Informatika,Tatap Muka,80.0,,73.6,68.2,6.0,3.22,2,0,1
+STD11026,19,Teknik Industri,Online,76.1,72.2,59.0,84.3,9.0,2.43,1,1,0
+STD11027,25,Informatika,Online,,72.9,73.5,64.4,18.3,3.59,0,1,1
+STD11028,21,Sistem Informasi,Online,84.9,85.3,63.4,44.5,8.9,3.19,2,1,0
+STD11029,25,Informatika,Hybrid,84.7,59.1,54.1,53.8,15.6,2.63,3,1,0
+STD11030,25,Sistem Informasi,Hybrid,74.6,72.3,80.4,72.1,19.6,3.36,0,0,1
+STD11031,24,Sistem Informasi,Hybrid,80.8,69.5,81.5,45.9,11.9,4.0,2,0,0
+STD11032,25,Sistem Informasi,Hybrid,85.6,73.3,83.3,67.8,17.0,,2,0,0
+STD11033,22,Teknik Industri,Tatap Muka,89.2,85.2,61.5,52.5,14.7,3.25,2,1,1
+STD11034,24,Informatika,Online,81.1,81.6,86.5,95.0,12.6,2.81,0,0,1
+STD11035,19,Sistem Informasi,Hybrid,92.8,66.0,63.1,100.0,15.8,3.04,3,0,0
+STD11036,18,Informatika,Hybrid,82.1,76.6,79.1,57.2,21.2,2.32,1,0,1
+STD11037,22,Informatika,Tatap Muka,89.9,92.9,62.8,75.6,8.8,3.0,2,0,1
+STD11038,24,Informatika,Tatap Muka,77.1,65.0,66.9,58.6,7.2,3.02,7,0,0
+STD11039,24,Informatika,Hybrid,63.9,76.7,36.1,67.7,6.9,3.81,1,0,0
+STD11040,22,Informatika,Hybrid,84.7,72.7,65.8,97.2,17.0,2.19,5,0,1
+STD11041,22,Sistem Informasi,Tatap Muka,89.3,74.2,71.3,65.5,17.6,2.87,1,1,1
+STD11042,22,Sistem Informasi,Tatap Muka,87.8,55.4,64.3,68.0,9.3,3.58,3,1,0
+STD11043,24,Sistem Informasi,Tatap Muka,86.2,91.9,94.6,58.8,1.3,2.89,1,0,0
+STD11044,24,Informatika,Hybrid,78.5,65.7,53.7,88.0,8.6,2.92,2,1,0
+STD11045,18,Informatika,Tatap Muka,73.9,87.3,62.1,30.0,14.7,2.63,3,0,0
+STD11046,22,Informatika,Online,87.5,67.5,57.3,65.8,11.7,2.58,2,0,0
+STD11047,21,Teknik Industri,Tatap Muka,86.3,67.5,62.1,71.4,12.9,2.18,1,0,0
+STD11048,24,Teknik Industri,Tatap Muka,76.4,89.6,84.4,62.7,9.4,2.72,3,1,0
+STD11049,22,Informatika,,93.1,86.9,90.7,84.1,17.1,2.55,1,1,1
+STD11050,25,Sistem Informasi,Hybrid,73.2,77.5,60.2,88.8,13.7,,0,0,1
+STD11051,21,Informatika,Hybrid,76.2,84.1,59.9,52.2,14.9,2.65,1,1,0
+STD11052,23,Informatika,Hybrid,98.4,71.5,53.8,100.0,12.8,2.78,2,1,1
+STD11053,18,Informatika,Online,90.7,74.9,88.3,52.1,14.6,2.8,5,1,0
+STD11054,25,Informatika,Tatap Muka,78.4,67.1,85.7,90.0,14.3,2.98,2,0,1
+STD11055,19,Sistem Informasi,Hybrid,84.9,85.8,68.5,74.1,7.4,2.76,0,1,1
+STD11056,21,Teknik Industri,Tatap Muka,83.5,66.7,50.5,64.9,13.9,2.52,0,0,0
+STD11057,24,Informatika,Tatap Muka,54.5,92.8,51.7,66.3,16.0,3.04,2,0,0
+STD11058,25,Sistem Informasi,Hybrid,72.9,71.2,72.4,71.5,17.8,3.48,2,1,1
+STD11059,21,Sistem Informasi,Tatap Muka,81.5,75.2,77.7,74.9,14.1,3.06,1,0,1
+STD11060,21,Teknik Industri,Hybrid,78.4,84.1,41.1,59.1,7.2,2.73,4,1,0
+STD11061,18,Sistem Informasi,Hybrid,84.5,75.3,65.5,68.7,7.9,2.94,4,1,0
+STD11062,25,Informatika,Hybrid,93.3,71.4,92.7,61.2,9.8,2.08,0,0,0
+STD11063,18,Sistem Informasi,Hybrid,78.8,74.6,67.0,55.0,12.9,2.94,1,0,0
+STD11064,18,Informatika,Hybrid,71.4,85.7,90.9,60.6,11.4,2.82,2,1,1
+STD11065,21,Teknik Industri,Tatap Muka,85.2,67.0,79.1,55.9,6.4,2.58,1,1,0
+STD11066,18,Informatika,Tatap Muka,78.7,73.5,54.8,66.1,6.4,2.66,4,1,1
+STD11067,19,Sistem Informasi,Tatap Muka,80.4,75.1,65.9,78.1,1.5,2.82,1,0,0
+STD11068,23,Informatika,Hybrid,79.1,85.4,68.2,73.7,1.0,3.45,1,0,0
+STD11069,23,Informatika,Online,100.0,73.8,56.7,99.6,11.3,3.49,2,0,1
+STD11070,20,Teknik Industri,Tatap Muka,59.6,96.7,56.4,41.1,23.6,2.58,3,1,0
+STD11071,24,Sistem Informasi,Hybrid,78.1,73.1,91.1,78.6,21.0,2.77,1,0,0
+STD11072,22,Informatika,Hybrid,82.0,72.1,56.3,72.1,7.1,2.78,2,1,1
+STD11073,19,Teknik Industri,Online,74.2,,85.1,83.4,12.7,3.36,0,0,1
+STD11074,23,Teknik Industri,Hybrid,91.0,59.2,63.9,82.0,4.7,3.07,4,0,1
+STD11075,22,Informatika,Hybrid,90.1,62.6,69.6,69.7,5.4,3.04,2,0,0
+STD11076,24,Sistem Informasi,Hybrid,81.5,68.6,77.9,74.4,6.0,3.24,3,0,0
+STD11077,19,Sistem Informasi,Online,79.3,88.6,61.6,61.6,10.9,2.73,4,0,0
+STD11078,19,Sistem Informasi,Tatap Muka,80.9,74.6,78.0,80.6,11.1,3.61,2,0,0
+STD11079,20,Informatika,Online,81.0,69.2,41.3,45.7,13.3,3.0,1,1,0
+STD11080,20,Informatika,Tatap Muka,81.2,89.7,76.2,82.9,15.3,2.61,2,0,1
+STD11081,25,Teknik Industri,Online,,93.6,35.4,71.7,10.3,2.9,4,1,0
+STD11082,23,Teknik Industri,Tatap Muka,84.5,90.1,66.8,65.2,12.2,3.55,1,0,0
+STD11083,22,Teknik Industri,Tatap Muka,89.5,64.8,82.0,68.7,6.5,2.81,1,0,0
+STD11084,22,Teknik Industri,Tatap Muka,69.7,69.1,78.7,69.8,5.3,3.43,2,1,0
+STD11085,25,Sistem Informasi,Tatap Muka,71.5,96.8,51.8,90.2,4.5,2.72,2,0,1
+STD11086,21,Teknik Industri,Tatap Muka,64.5,77.9,53.6,100.0,15.2,2.66,1,0,0
+STD11087,19,Teknik Industri,Tatap Muka,90.7,71.8,60.4,89.1,10.3,3.3,1,0,1
+STD11088,19,Sistem Informasi,Hybrid,84.5,83.6,72.6,64.1,2.6,2.61,2,0,0
+STD11089,20,Sistem Informasi,Tatap Muka,,87.1,41.6,80.8,11.7,3.37,2,1,1
+STD11090,23,Informatika,Hybrid,67.7,68.1,69.8,81.4,5.8,3.16,3,0,1
+STD11091,21,Sistem Informasi,Online,99.8,77.6,74.4,59.0,20.3,2.61,4,0,0
+STD11092,21,Informatika,Hybrid,75.9,86.1,66.0,54.3,9.1,2.97,2,1,0
+STD11093,21,Informatika,Tatap Muka,83.7,61.1,77.4,71.1,,2.75,2,0,0
+STD11094,25,Sistem Informasi,Tatap Muka,90.5,75.1,73.1,83.3,17.4,3.16,0,1,1
+STD11095,25,Informatika,Online,72.1,61.6,62.4,49.4,7.2,3.85,3,0,0
+STD11096,19,Informatika,Tatap Muka,76.5,63.2,42.9,61.9,12.4,2.83,3,0,0
+STD11097,18,Teknik Industri,Tatap Muka,83.8,68.2,71.9,80.0,14.8,3.24,0,0,0
+STD11098,19,Teknik Industri,Online,100.0,80.7,56.7,72.6,12.6,3.01,2,0,1
+STD11099,24,Informatika,Online,85.0,71.1,61.9,91.8,13.8,3.01,2,0,1
+STD11100,21,Informatika,Tatap Muka,98.1,67.2,76.7,52.2,5.4,2.93,1,0,0
+STD11101,24,Informatika,Hybrid,94.1,75.6,89.8,100.0,14.8,2.61,2,0,1
+STD11102,23,Teknik Industri,Hybrid,85.7,61.2,69.5,50.5,9.6,3.15,1,0,0
+STD11103,22,Teknik Industri,Hybrid,72.1,80.1,77.8,43.6,13.7,2.87,3,0,0
+STD11104,20,Informatika,Tatap Muka,92.6,88.6,49.8,71.2,16.6,2.59,5,0,1
+STD11105,20,Teknik Industri,Tatap Muka,67.0,74.0,73.4,56.1,15.3,3.46,2,0,1
+STD11106,19,Informatika,Hybrid,98.0,72.6,69.2,71.5,13.7,3.04,4,0,1
+STD11107,22,Informatika,Tatap Muka,84.0,79.5,87.2,71.0,15.2,2.9,2,0,0
+STD11108,20,Teknik Industri,Hybrid,55.5,50.7,62.4,69.3,15.4,3.6,1,0,0
+STD11109,20,Informatika,Tatap Muka,78.6,81.4,66.6,60.2,19.5,2.17,3,0,1
+STD11110,18,Informatika,Online,88.5,100.0,84.8,78.1,11.8,3.57,0,0,1
+STD11111,24,Informatika,Online,79.6,73.5,68.7,67.6,12.8,2.6,3,1,1
+STD11112,25,Sistem Informasi,Hybrid,89.2,73.6,54.5,87.5,16.7,3.1,2,0,0
+STD11113,21,Teknik Industri,Hybrid,73.5,83.9,100.0,69.5,9.5,2.74,2,0,1
+STD11114,22,Teknik Industri,Tatap Muka,68.9,94.7,54.9,58.5,5.3,2.58,2,1,0
+STD11115,25,Informatika,Hybrid,81.3,86.7,69.1,48.4,14.5,3.59,0,0,0
+STD11116,22,Informatika,Tatap Muka,82.3,49.1,74.9,69.6,11.0,3.84,1,0,0
+STD11117,22,Teknik Industri,Online,,81.8,73.7,54.2,6.0,2.9,3,1,0
+STD11118,21,Informatika,Online,94.3,100.0,67.3,53.1,14.5,3.15,0,1,0
+STD11119,22,Teknik Industri,Online,73.5,82.5,67.4,79.4,19.2,3.03,2,1,0
+STD11120,22,Sistem Informasi,Online,,61.1,66.7,47.1,3.9,3.78,3,1,1
+STD11121,23,Informatika,Online,82.7,78.4,54.4,91.8,17.1,2.05,2,0,0
+STD11122,22,Teknik Industri,Tatap Muka,66.4,59.6,100.0,74.2,1.0,3.17,2,1,0
+STD11123,22,Informatika,Online,68.8,89.8,66.9,71.4,10.0,2.67,1,0,0
+STD11124,18,Informatika,Hybrid,82.1,63.5,78.4,57.5,21.2,1.94,2,1,0
+STD11125,25,Sistem Informasi,Tatap Muka,100.0,75.9,65.3,82.7,10.4,2.84,1,0,0
+STD11126,25,Sistem Informasi,Hybrid,87.8,64.7,65.0,72.0,12.4,3.83,5,0,1
+STD11127,19,Sistem Informasi,Tatap Muka,64.7,68.4,63.6,62.4,15.8,2.7,1,0,0
+STD11128,20,Sistem Informasi,Tatap Muka,50.9,92.8,48.3,74.8,3.4,3.36,2,0,1
+STD11129,25,Teknik Industri,Tatap Muka,89.3,76.2,67.8,48.4,12.4,3.54,1,0,0
+STD11130,20,Teknik Industri,Tatap Muka,81.0,68.3,64.3,49.1,12.3,2.99,2,1,1
+STD11131,24,Sistem Informasi,Hybrid,93.4,61.3,86.4,56.3,21.3,3.05,2,0,0
+STD11132,24,Informatika,Online,73.2,52.5,53.2,76.9,5.8,2.23,4,1,0
+STD11133,24,Sistem Informasi,Hybrid,85.5,60.0,61.9,72.0,10.1,2.68,1,0,0
+STD11134,18,Teknik Industri,Hybrid,90.5,76.3,57.4,86.7,7.4,3.41,4,0,0
+STD11135,21,Informatika,Tatap Muka,77.5,86.8,90.2,59.1,6.8,3.03,3,0,0
+STD11136,22,Sistem Informasi,Hybrid,77.7,68.3,57.8,80.0,17.6,3.17,1,0,0
+STD11137,24,Informatika,Tatap Muka,82.3,93.8,77.9,70.4,12.1,3.06,2,0,1
+STD11138,19,Informatika,Online,87.4,66.4,83.6,58.8,9.2,3.99,5,0,0
+STD11139,20,Sistem Informasi,Tatap Muka,81.9,72.1,68.0,77.4,9.4,2.81,2,0,1
+STD11140,19,Informatika,Hybrid,91.7,62.0,50.7,71.1,9.2,3.72,5,1,1
+STD11141,24,Teknik Industri,Hybrid,77.4,86.9,50.9,63.2,9.6,3.06,1,0,0
+STD11142,25,Teknik Industri,Hybrid,68.7,100.0,82.0,72.6,5.7,3.76,0,1,0
+STD11143,19,Teknik Industri,Online,100.0,53.9,52.4,70.2,10.7,2.45,0,1,0
+STD11144,19,Informatika,Tatap Muka,76.0,70.8,75.5,69.8,10.2,3.08,3,0,1
+STD11145,20,Informatika,Online,76.3,90.2,71.6,66.2,8.2,2.82,1,1,0
+STD11146,25,Sistem Informasi,Hybrid,81.3,57.6,75.3,53.7,12.8,3.06,3,1,0
+STD11147,21,Teknik Industri,Hybrid,82.7,81.8,76.6,73.0,13.2,3.55,2,1,1
+STD11148,20,Sistem Informasi,Hybrid,78.1,89.7,56.9,60.8,9.2,,2,1,1
+STD11149,20,Teknik Industri,Online,81.8,75.9,56.3,57.7,11.3,3.55,1,0,0
+STD11150,22,Informatika,Online,81.6,81.6,80.0,68.6,22.8,2.7,0,1,1
+STD11151,21,Teknik Industri,Tatap Muka,83.7,96.1,61.2,82.3,22.6,2.63,3,0,1
+STD11152,19,Informatika,Online,58.4,98.4,31.5,74.6,6.7,3.01,1,0,1
+STD11153,24,Informatika,Hybrid,100.0,74.3,79.1,64.6,7.4,2.98,5,1,0
+STD11154,21,Sistem Informasi,Hybrid,80.5,68.6,55.5,64.0,6.7,2.92,1,0,0
+STD11155,20,Informatika,Online,87.8,64.0,76.5,80.9,17.3,2.57,0,0,1
+STD11156,23,Informatika,Tatap Muka,68.2,86.7,89.5,38.4,10.0,3.54,4,0,0
+STD11157,23,Informatika,Hybrid,77.3,58.5,70.2,83.2,13.2,2.84,1,0,0
+STD11158,19,Informatika,Tatap Muka,75.3,72.0,83.9,45.8,22.0,3.64,3,1,1
+STD11159,18,Teknik Industri,Tatap Muka,96.7,76.2,72.2,52.2,,3.01,4,0,1
+STD11160,18,Informatika,Online,76.1,69.0,92.2,64.8,15.5,3.29,3,0,0
+STD11161,24,Sistem Informasi,Tatap Muka,,78.4,55.1,100.0,14.6,3.25,5,1,1
+STD11162,23,Teknik Industri,Tatap Muka,75.5,100.0,69.9,95.5,9.1,2.63,1,1,1
+STD11163,24,Informatika,Tatap Muka,77.5,,79.4,81.9,17.3,3.17,2,1,0
+STD11164,23,Informatika,Hybrid,79.5,69.8,67.3,77.0,7.8,3.87,4,0,0
+STD11165,21,Teknik Industri,Online,94.8,87.2,86.1,45.9,18.7,3.11,2,1,0
+STD11166,22,Teknik Industri,Online,63.1,77.9,64.0,74.2,9.1,3.41,3,0,0
+STD11167,23,Sistem Informasi,Tatap Muka,68.8,92.3,99.0,64.3,9.6,3.31,1,1,1
+STD11168,21,Teknik Industri,Hybrid,62.5,77.0,99.7,60.6,6.6,3.14,0,0,0
+STD11169,25,Informatika,Hybrid,71.1,,73.9,74.2,7.4,3.08,1,0,0
+STD11170,25,Informatika,Hybrid,73.9,53.6,77.7,65.4,9.9,3.25,2,0,0
+STD11171,24,Sistem Informasi,Tatap Muka,65.9,55.6,86.7,84.2,1.0,3.34,3,0,0
+STD11172,25,Informatika,Tatap Muka,74.7,53.0,53.4,44.9,10.8,2.39,2,0,0
+STD11173,21,Teknik Industri,Hybrid,61.9,79.6,51.6,73.1,9.5,3.11,1,0,0
+STD11174,18,Sistem Informasi,Hybrid,71.8,58.7,87.6,59.7,16.0,2.92,2,1,0
+STD11175,21,Teknik Industri,Hybrid,94.0,90.1,73.8,66.3,14.1,2.82,0,0,1
+STD11176,23,Sistem Informasi,Hybrid,86.0,75.4,66.8,76.3,8.5,3.58,0,0,0
+STD11177,24,Informatika,Online,83.9,72.1,70.2,56.4,9.7,2.67,0,0,1
+STD11178,21,Informatika,Hybrid,72.0,64.9,36.6,74.3,10.8,2.37,1,1,0
+STD11179,20,Informatika,Tatap Muka,66.6,82.5,67.3,69.0,19.4,3.36,3,0,0
+STD11180,21,Teknik Industri,Online,70.6,65.3,59.5,62.8,7.9,2.36,3,0,0
+STD11181,24,Informatika,Online,81.6,63.2,82.9,65.4,8.4,2.13,5,1,0
+STD11182,18,Informatika,Tatap Muka,90.7,89.3,83.9,69.8,6.4,,2,1,0
+STD11183,20,Informatika,Hybrid,91.0,79.3,78.1,61.3,4.6,3.07,1,0,0
+STD11184,19,Informatika,Tatap Muka,88.3,72.2,75.5,72.1,13.5,3.21,4,0,1
+STD11185,24,Teknik Industri,Hybrid,74.6,82.7,49.0,68.1,13.0,2.8,1,1,0
+STD11186,21,Informatika,Tatap Muka,82.2,75.1,78.3,63.4,18.4,2.38,1,0,0
+STD11187,18,Teknik Industri,Hybrid,78.8,79.6,78.8,94.3,17.2,2.47,2,0,0
+STD11188,20,Informatika,Tatap Muka,80.0,65.2,87.4,77.8,24.0,2.88,3,0,0
+STD11189,18,Sistem Informasi,Hybrid,100.0,99.8,99.7,66.6,11.6,2.43,2,1,1
+STD11190,21,Informatika,Online,64.4,68.0,46.3,74.0,10.7,3.14,3,0,0
+STD11191,25,Informatika,Tatap Muka,79.7,93.7,64.6,57.6,5.5,2.79,2,1,1
+STD11192,22,Teknik Industri,Online,94.1,72.7,59.6,65.9,15.5,3.08,0,1,0
+STD11193,24,Teknik Industri,Online,67.3,84.7,72.4,67.5,12.6,3.07,1,0,0
+STD11194,23,Teknik Industri,Online,75.6,83.8,70.2,54.5,15.3,3.17,2,0,0
+STD11195,25,Informatika,Tatap Muka,76.7,88.8,66.7,77.4,6.3,3.22,2,1,1
+STD11196,20,Informatika,Online,79.8,64.9,84.4,64.9,13.8,2.85,6,0,0
+STD11197,25,Sistem Informasi,Tatap Muka,66.0,87.9,54.6,67.0,13.0,3.08,1,0,1
+STD11198,19,Informatika,Tatap Muka,88.0,97.2,55.4,64.0,12.7,3.11,1,1,1
+STD11199,21,Sistem Informasi,Online,88.7,71.9,55.7,100.0,8.6,1.91,2,0,0
+STD11200,23,Sistem Informasi,Hybrid,87.1,75.4,65.0,62.7,17.9,3.29,1,0,1
+STD11201,20,Sistem Informasi,Hybrid,73.3,68.7,52.8,43.0,22.3,3.07,0,0,0
+STD11202,20,Teknik Industri,Tatap Muka,82.9,70.8,69.3,49.6,6.4,3.25,0,0,0
+STD11203,19,Sistem Informasi,Online,73.0,95.5,67.7,82.6,15.6,2.42,1,1,0
+STD11204,18,Informatika,Hybrid,78.7,62.9,59.0,90.7,1.0,2.86,2,0,0
+STD11205,22,Informatika,Hybrid,100.0,63.7,82.2,62.5,15.3,2.51,2,0,0
+STD11206,25,Sistem Informasi,Online,83.0,94.3,69.2,89.9,2.6,3.34,0,1,0
+STD11207,19,Sistem Informasi,Tatap Muka,70.1,82.5,84.9,82.4,9.4,2.37,3,0,0
+STD11208,21,Informatika,Tatap Muka,83.8,100.0,67.3,69.3,5.4,2.58,5,1,1
+STD11209,25,Informatika,Hybrid,68.5,69.6,69.7,68.4,10.9,3.24,1,0,0
+STD11210,24,Teknik Industri,Online,70.0,76.5,62.1,74.5,16.2,2.72,2,0,0
+STD11211,18,Teknik Industri,Tatap Muka,71.6,67.1,69.9,84.3,2.7,2.58,0,0,0
+STD11212,22,Sistem Informasi,Tatap Muka,77.6,76.7,80.0,77.6,10.2,3.41,0,1,1
+STD11213,19,Informatika,Tatap Muka,91.4,53.7,64.2,62.5,9.4,3.43,0,1,0
+STD11214,19,Informatika,Online,87.8,83.2,77.3,69.6,19.9,3.32,1,0,0
+STD11215,19,Sistem Informasi,Tatap Muka,87.2,78.9,58.6,99.7,14.2,3.38,0,0,1
+STD11216,22,Informatika,Hybrid,71.0,74.3,80.6,75.5,6.1,2.9,4,0,0
+STD11217,19,Sistem Informasi,Online,76.6,70.3,61.9,84.2,9.6,2.91,2,0,0
+STD11218,20,Sistem Informasi,Tatap Muka,84.7,64.3,81.9,79.6,19.8,2.71,3,0,0
+STD11219,19,Informatika,Hybrid,75.7,83.7,70.9,75.8,15.6,3.08,4,1,1
+STD11220,20,Informatika,Hybrid,79.2,60.9,91.3,73.5,7.4,2.76,3,1,0
+STD11221,23,Informatika,Online,86.4,81.1,53.8,84.6,10.7,2.81,2,0,0
+STD11222,21,Teknik Industri,Tatap Muka,78.5,99.9,49.3,82.1,10.8,3.27,2,0,0
+STD11223,20,Sistem Informasi,Tatap Muka,84.3,92.8,61.4,75.7,9.3,3.53,2,0,1
+STD11224,22,Informatika,Tatap Muka,97.9,56.9,50.6,62.3,3.4,3.18,1,0,0
+STD11225,22,Teknik Industri,Hybrid,80.3,68.6,50.6,77.4,8.6,3.81,3,0,0
+STD11226,18,Sistem Informasi,Hybrid,93.8,80.1,78.7,71.1,18.9,2.68,2,1,1
+STD11227,25,Sistem Informasi,Tatap Muka,87.6,74.2,69.9,67.7,10.1,2.17,4,0,0
+STD11228,25,Teknik Industri,Tatap Muka,67.3,58.2,63.3,100.0,11.5,3.32,2,0,0
+STD11229,22,Informatika,Online,71.0,79.6,64.6,50.5,,2.65,2,0,0
+STD11230,22,Informatika,Tatap Muka,73.7,74.9,61.6,85.4,23.1,2.88,3,0,0
+STD11231,23,Sistem Informasi,Tatap Muka,73.5,98.0,93.1,59.9,12.0,2.2,2,1,1
+STD11232,21,Informatika,Hybrid,81.1,72.0,59.7,73.8,17.5,2.6,2,1,0
+STD11233,20,Sistem Informasi,Tatap Muka,,89.0,51.5,100.0,9.0,2.32,2,1,1
+STD11234,20,Informatika,Tatap Muka,94.6,59.8,81.1,58.5,10.7,2.8,3,1,0
+STD11235,19,Informatika,Hybrid,85.1,62.7,67.0,61.9,12.1,2.82,0,0,0
+STD11236,24,Informatika,Tatap Muka,,83.7,98.5,71.8,,3.04,0,1,0
+STD11237,20,Informatika,Hybrid,61.2,88.0,62.6,60.1,11.0,3.56,2,1,0
+STD11238,20,Informatika,Hybrid,82.7,63.5,81.8,84.4,16.4,3.3,2,0,0
+STD11239,25,Informatika,Hybrid,82.3,75.3,85.2,64.5,8.0,2.27,1,0,0
+STD11240,22,Teknik Industri,Tatap Muka,83.8,58.4,62.7,81.2,12.0,3.27,2,1,0
+STD11241,22,Informatika,Online,100.0,72.8,59.6,53.4,15.5,3.05,0,1,1
+STD11242,19,Informatika,Tatap Muka,94.4,85.0,80.4,46.7,7.9,2.96,1,0,0
+STD11243,20,Informatika,Hybrid,89.9,69.8,78.0,68.8,17.5,2.99,2,1,0
+STD11244,23,Informatika,Tatap Muka,72.4,,50.3,50.0,12.4,3.09,2,1,0
+STD11245,21,Informatika,Hybrid,76.9,61.4,54.2,93.3,11.2,2.69,1,1,1
+STD11246,19,Sistem Informasi,Tatap Muka,81.1,67.2,34.5,50.6,2.0,2.92,2,0,0
+STD11247,24,Informatika,Tatap Muka,74.2,96.1,78.3,57.5,10.1,3.53,2,0,1
+STD11248,21,Teknik Industri,Hybrid,87.0,75.9,66.3,77.8,13.9,2.68,3,1,0
+STD11249,23,Teknik Industri,Tatap Muka,85.6,63.0,67.7,63.8,20.7,2.54,8,0,0
+STD11250,20,Informatika,Tatap Muka,71.1,71.2,46.3,50.7,14.8,2.97,0,0,0
+STD11251,22,Informatika,Hybrid,94.0,55.8,54.6,100.0,17.6,2.49,1,1,0
+STD11252,24,Informatika,,83.0,62.8,63.3,58.0,6.0,2.22,3,0,0
+STD11253,25,Sistem Informasi,Tatap Muka,64.7,91.3,60.6,69.3,11.4,2.84,2,0,1
+STD11254,19,Informatika,Online,81.5,73.3,71.6,69.1,18.1,3.65,2,1,1
+STD11255,23,Teknik Industri,Hybrid,84.8,97.7,78.2,81.9,7.6,2.98,5,0,0
+STD11256,25,Teknik Industri,Online,91.7,73.9,100.0,78.5,16.8,3.08,0,1,1
+STD11257,23,Teknik Industri,Hybrid,78.6,74.6,69.7,60.4,15.7,2.04,2,0,0
+STD11258,19,Sistem Informasi,Hybrid,90.3,82.7,85.6,67.4,13.4,3.2,2,0,1
+STD11259,19,Teknik Industri,Hybrid,83.9,42.9,58.4,68.8,10.4,3.04,3,0,1
+STD11260,19,Informatika,Hybrid,68.8,77.5,46.6,82.5,7.1,2.7,3,0,0
+STD11261,18,Informatika,Online,67.8,74.4,65.1,55.6,20.9,3.08,1,0,0
+STD11262,24,Informatika,Tatap Muka,93.2,92.8,47.6,100.0,15.2,3.08,2,1,0
+STD11263,25,Teknik Industri,Tatap Muka,94.0,86.6,70.2,61.4,13.7,2.52,1,1,1
+STD11264,22,Sistem Informasi,Tatap Muka,85.2,61.4,59.1,71.9,9.9,3.15,2,0,1
+STD11265,22,Teknik Industri,Online,97.0,89.9,42.6,55.8,12.2,3.54,2,0,1
+STD11266,24,Informatika,Tatap Muka,92.6,71.9,94.3,53.8,12.8,2.9,3,0,1
+STD11267,21,Teknik Industri,Hybrid,88.8,64.1,62.5,59.8,14.0,2.61,3,0,0
+STD11268,21,Sistem Informasi,Online,72.9,77.4,47.1,58.4,15.7,2.92,2,0,0
+STD11269,22,Sistem Informasi,Online,99.3,72.6,82.6,66.2,8.1,3.38,2,0,1
+STD11270,20,Teknik Industri,Tatap Muka,87.4,93.5,59.8,58.3,4.7,2.45,2,0,0
+STD11271,18,Informatika,,78.1,79.1,85.3,81.7,12.4,3.26,5,0,0
+STD11272,22,Informatika,Online,75.3,77.5,59.7,61.0,3.3,2.69,3,0,0
+STD11273,24,Sistem Informasi,Tatap Muka,84.6,85.8,62.4,59.5,10.4,3.11,4,1,0
+STD11274,18,Informatika,Hybrid,65.3,88.1,74.8,66.5,9.5,2.75,1,0,0
+STD11275,19,Informatika,Tatap Muka,89.0,84.4,78.3,85.9,14.5,2.74,2,0,0
+STD11276,20,Informatika,Hybrid,72.5,92.0,80.8,75.0,21.9,3.69,3,0,0
+STD11277,24,Informatika,Hybrid,85.7,82.3,68.7,70.6,2.3,2.37,0,0,1
+STD11278,22,Teknik Industri,Tatap Muka,76.8,77.0,77.4,51.9,23.4,3.22,4,1,0
+STD11279,22,Sistem Informasi,Tatap Muka,79.4,89.9,80.4,56.0,10.8,3.78,2,1,1
+STD11280,23,Informatika,Tatap Muka,74.4,73.9,72.8,54.1,13.7,3.31,1,1,1
+STD11281,20,Informatika,Tatap Muka,80.4,75.4,68.0,90.3,4.9,2.4,2,0,0
+STD11282,23,Informatika,Hybrid,100.0,95.7,49.8,79.4,17.0,2.42,1,0,0
+STD11283,18,Sistem Informasi,Tatap Muka,95.9,94.5,78.4,59.9,12.2,2.66,1,0,1
+STD11284,18,Teknik Industri,Tatap Muka,85.5,74.9,70.6,64.1,11.7,3.07,2,0,1
+STD11285,24,Teknik Industri,Hybrid,81.7,69.6,64.2,60.4,2.3,3.1,3,0,0
+STD11286,23,Informatika,Hybrid,90.4,92.6,87.9,59.6,12.4,2.43,1,0,1
+STD11287,19,Informatika,Hybrid,93.3,84.6,50.0,78.4,16.2,2.61,3,0,1
+STD11288,21,Sistem Informasi,Online,73.7,78.8,93.0,68.0,10.8,2.63,0,0,1
+STD11289,18,Sistem Informasi,Tatap Muka,81.2,71.1,69.7,100.0,17.9,2.92,3,0,1
+STD11290,23,Sistem Informasi,Online,63.8,79.0,74.4,89.5,17.7,3.89,0,0,0
+STD11291,24,Sistem Informasi,Tatap Muka,93.2,74.7,64.5,90.3,8.8,2.58,5,0,1
+STD11292,20,Sistem Informasi,Hybrid,100.0,67.0,46.7,81.4,20.0,2.56,0,1,1
+STD11293,20,Informatika,Online,82.8,76.5,68.0,66.1,12.2,2.49,1,0,0
+STD11294,19,Informatika,Online,60.7,78.2,74.7,80.4,12.2,3.29,2,0,1
+STD11295,21,Informatika,Hybrid,88.1,70.5,79.5,67.1,12.5,2.98,0,0,0
+STD11296,20,Informatika,Hybrid,73.0,85.8,67.2,94.8,12.3,2.6,2,0,1
+STD11297,19,Informatika,Tatap Muka,75.4,90.5,39.3,77.7,1.0,2.84,3,1,0
+STD11298,21,Sistem Informasi,Hybrid,88.3,86.6,48.4,75.7,11.1,2.64,1,0,0
+STD11299,24,Informatika,Hybrid,84.5,71.7,98.7,73.8,5.2,3.13,1,1,0
+STD11300,24,Informatika,Online,77.1,84.1,54.7,96.4,20.1,4.0,1,1,1
+STD11301,20,Sistem Informasi,Hybrid,75.5,75.9,90.0,51.9,19.9,3.25,5,0,0
+STD11302,25,Teknik Industri,Tatap Muka,83.3,60.2,56.9,97.7,16.3,2.96,0,1,0
+STD11303,19,Informatika,Hybrid,77.9,83.1,67.4,69.4,10.8,2.7,2,0,0
+STD11304,25,Teknik Industri,Tatap Muka,70.9,76.8,78.8,52.3,7.0,2.4,1,1,1
+STD11305,20,Teknik Industri,Tatap Muka,78.7,100.0,58.5,61.5,8.7,,3,0,1
+STD11306,22,Sistem Informasi,Tatap Muka,85.4,92.5,92.3,48.9,21.7,3.31,2,1,1
+STD11307,19,Sistem Informasi,,80.2,83.5,71.1,81.2,8.5,2.79,2,0,1
+STD11308,24,Informatika,Tatap Muka,67.9,78.0,76.5,57.5,1.0,3.55,1,0,0
+STD11309,20,Teknik Industri,Tatap Muka,91.9,77.0,66.3,74.4,17.2,3.01,0,1,0
+STD11310,24,Informatika,Tatap Muka,54.6,63.0,79.2,87.9,19.5,3.35,1,0,1
+STD11311,18,Teknik Industri,Online,77.5,54.1,92.1,62.6,20.3,3.13,5,0,0
+STD11312,22,Sistem Informasi,,75.8,64.5,68.2,68.2,17.2,2.92,1,0,0
+STD11313,19,Informatika,Tatap Muka,83.5,74.4,94.2,53.8,18.0,2.57,1,0,0
+STD11314,25,Informatika,Tatap Muka,87.6,49.7,61.4,66.6,12.3,2.93,2,0,0
+STD11315,21,Sistem Informasi,Hybrid,93.3,68.5,80.7,100.0,1.6,3.38,4,0,0
+STD11316,23,Sistem Informasi,Tatap Muka,74.9,72.0,76.8,82.9,12.1,2.77,2,0,0
+STD11317,25,Informatika,Hybrid,87.9,72.4,55.0,68.3,15.1,3.2,5,1,1
+STD11318,22,Sistem Informasi,Tatap Muka,84.0,67.1,73.0,63.4,11.3,2.51,2,0,0
+STD11319,18,Teknik Industri,Online,64.9,70.9,70.1,71.4,11.1,3.35,3,1,0
+STD11320,19,Sistem Informasi,Tatap Muka,100.0,95.7,58.1,73.8,7.2,3.14,1,0,1
+STD11321,19,Sistem Informasi,Hybrid,67.6,82.9,75.0,66.1,7.0,2.46,1,1,1
+STD11322,25,Informatika,Tatap Muka,86.2,68.3,72.0,79.4,21.2,2.9,4,1,1
+STD11323,25,Teknik Industri,Online,85.9,74.2,69.0,58.7,21.4,3.42,2,1,1
+STD11324,21,Informatika,Online,84.8,74.7,69.0,58.6,12.0,2.43,0,0,0
+STD11325,25,Teknik Industri,Hybrid,77.1,65.8,68.7,77.2,13.4,2.52,4,0,0
+STD11326,19,Informatika,Hybrid,,65.8,64.9,55.6,7.1,2.97,2,1,0
+STD11327,23,Sistem Informasi,Tatap Muka,66.4,87.1,72.0,82.2,15.2,3.96,4,1,0
+STD11328,21,Informatika,Online,81.3,70.0,61.0,71.8,20.8,2.7,1,0,0
+STD11329,19,Informatika,Hybrid,76.4,61.9,100.0,46.4,4.4,3.22,2,0,0
+STD11330,20,Teknik Industri,Tatap Muka,75.2,74.5,50.3,73.5,14.3,3.12,3,1,1
+STD11331,21,Sistem Informasi,Hybrid,86.3,76.4,61.8,48.4,14.7,2.73,3,0,0
+STD11332,20,Sistem Informasi,Hybrid,92.8,51.3,62.9,81.7,14.6,3.07,0,0,0
+STD11333,19,Teknik Industri,Online,78.6,74.5,98.6,68.5,20.2,2.8,3,1,0
+STD11334,20,Teknik Industri,Hybrid,89.8,85.4,51.5,97.9,22.2,2.84,1,0,1
+STD11335,19,Teknik Industri,Hybrid,82.5,80.4,76.0,87.0,10.8,2.25,2,0,0
+STD11336,25,Informatika,Hybrid,73.1,100.0,73.5,57.2,15.4,2.99,2,0,0
+STD11337,21,Sistem Informasi,Tatap Muka,79.4,90.0,74.7,43.7,12.4,3.4,2,0,1
+STD11338,18,Teknik Industri,Tatap Muka,79.0,92.4,87.3,61.4,8.8,3.03,2,0,0
+STD11339,22,Informatika,Tatap Muka,75.0,100.0,87.0,54.9,13.4,3.49,1,1,0
+STD11340,25,Informatika,Hybrid,86.3,84.1,63.7,97.6,15.4,3.26,3,0,0
+STD11341,20,Teknik Industri,Tatap Muka,84.3,77.0,72.7,71.9,13.1,2.97,1,1,1
+STD11342,24,Sistem Informasi,Tatap Muka,66.1,86.7,43.9,85.1,7.6,2.72,0,1,0
+STD11343,22,Sistem Informasi,Tatap Muka,65.5,68.3,71.4,68.0,9.7,2.78,1,1,0
+STD11344,23,Teknik Industri,Tatap Muka,86.2,76.3,58.9,69.5,9.7,2.34,0,0,0
+STD11345,20,Sistem Informasi,Hybrid,73.8,67.2,67.4,71.5,7.8,2.88,3,0,1
+STD11346,18,Informatika,Tatap Muka,85.0,79.8,46.4,87.5,13.6,3.07,1,1,0
+STD11347,20,Informatika,Tatap Muka,,67.2,75.7,76.4,14.1,3.77,2,0,1
+STD11348,25,Informatika,Hybrid,69.3,66.8,46.2,57.2,16.9,3.24,2,0,0
+STD11349,24,Informatika,Tatap Muka,67.9,80.0,72.1,94.7,7.7,,1,0,0
+STD11350,24,Teknik Industri,Tatap Muka,98.7,73.3,52.8,67.9,9.1,2.35,2,0,1
+STD11351,25,Teknik Industri,Tatap Muka,85.5,51.9,58.1,65.6,19.8,2.91,0,1,0
+STD11352,20,Informatika,Online,77.8,57.5,86.2,32.4,11.2,3.37,2,0,0
+STD11353,20,Informatika,Tatap Muka,72.7,61.2,78.2,80.9,12.2,2.9,2,0,0
+STD11354,25,Teknik Industri,Hybrid,76.9,64.4,86.1,73.4,11.1,3.24,2,0,1
+STD11355,22,Informatika,Online,70.1,,91.8,73.4,17.7,2.92,2,0,0
+STD11356,20,Sistem Informasi,Hybrid,90.8,77.6,59.2,66.4,17.9,3.32,5,0,0
+STD11357,20,Sistem Informasi,Tatap Muka,74.2,87.8,91.0,63.9,17.6,2.28,3,1,0
+STD11358,25,Sistem Informasi,Hybrid,92.9,84.0,49.5,66.8,12.1,3.72,1,1,0
+STD11359,18,Informatika,Hybrid,78.0,87.9,80.4,78.5,7.6,2.5,0,1,1
+STD11360,18,Sistem Informasi,Tatap Muka,71.6,82.3,63.1,80.9,21.6,3.36,2,0,1
+STD11361,23,Informatika,Hybrid,77.7,77.5,57.0,68.8,16.3,2.88,0,0,0
+STD11362,18,Sistem Informasi,Tatap Muka,55.8,88.2,78.6,85.3,9.7,2.95,1,0,0
+STD11363,19,Informatika,Tatap Muka,80.8,86.0,83.2,70.9,19.1,2.89,1,0,1
+STD11364,25,Sistem Informasi,Tatap Muka,80.3,79.5,82.8,64.9,9.3,3.12,3,1,1
+STD11365,21,Sistem Informasi,Tatap Muka,90.2,90.3,73.0,74.8,19.1,3.21,3,1,1
+STD11366,23,Informatika,Tatap Muka,63.1,46.9,71.8,53.0,19.4,3.48,2,0,1
+STD11367,21,Informatika,Hybrid,93.6,71.5,77.4,75.3,7.4,3.63,2,0,1
+STD11368,18,Informatika,Online,90.2,71.3,74.3,50.4,14.9,3.15,2,1,0
+STD11369,19,Informatika,Tatap Muka,94.5,88.8,77.6,57.6,15.9,3.77,3,0,1
+STD11370,24,Informatika,Hybrid,81.5,93.9,72.9,43.7,25.1,3.04,4,1,0
+STD11371,18,Teknik Industri,Hybrid,92.1,57.6,81.8,69.5,8.3,3.48,1,1,1
+STD11372,22,Informatika,Tatap Muka,67.3,91.9,47.2,94.5,19.2,3.19,2,0,1
+STD11373,20,Teknik Industri,Tatap Muka,89.1,60.9,68.2,70.4,12.1,2.75,2,1,0
+STD11374,20,Teknik Industri,Tatap Muka,74.3,61.3,50.6,81.0,5.8,3.08,1,1,0
+STD11375,25,Informatika,Tatap Muka,65.5,72.2,73.9,100.0,11.4,3.23,3,1,1
+STD11376,22,Sistem Informasi,Tatap Muka,70.8,71.2,93.0,77.7,12.0,2.99,0,0,0
+STD11377,22,Teknik Industri,Tatap Muka,82.1,56.3,63.4,61.3,6.7,3.19,3,0,0
+STD11378,20,Sistem Informasi,Hybrid,73.8,82.8,71.8,63.2,13.6,3.39,4,1,1
+STD11379,21,Informatika,Tatap Muka,85.8,83.2,80.6,72.0,16.8,2.99,2,0,0
+STD11380,23,Informatika,Tatap Muka,63.9,87.6,41.1,63.1,13.2,1.68,3,0,0
+STD11381,18,Informatika,Tatap Muka,60.7,69.8,62.7,64.2,9.3,3.76,3,0,0
+STD11382,19,Sistem Informasi,Hybrid,95.7,74.5,75.1,85.8,11.3,2.87,1,0,1
+STD11383,22,Teknik Industri,Tatap Muka,91.0,74.6,30.0,86.4,12.0,2.63,1,1,1
+STD11384,22,Teknik Industri,Hybrid,71.5,95.3,56.3,48.9,13.1,2.49,1,0,0
+STD11385,18,Informatika,Tatap Muka,82.0,41.0,85.4,60.5,17.5,2.85,4,0,0
+STD11386,24,Sistem Informasi,Tatap Muka,92.2,63.5,84.0,65.5,13.4,2.75,0,0,1
+STD11387,22,Informatika,Online,86.2,75.1,75.2,80.4,5.0,2.67,1,0,0
+STD11388,19,Teknik Industri,Tatap Muka,,62.0,82.4,88.0,9.2,2.69,3,0,0
+STD11389,24,Informatika,Tatap Muka,93.0,71.9,73.0,100.0,12.8,3.24,6,0,1
+STD11390,25,Teknik Industri,Tatap Muka,74.7,73.5,77.8,65.5,17.6,3.91,0,0,1
+STD11391,21,Teknik Industri,Online,82.3,67.1,65.6,66.2,18.5,3.37,2,0,0
+STD11392,20,Informatika,Hybrid,81.8,75.8,71.6,80.2,20.9,3.51,2,0,1
+STD11393,20,Informatika,Hybrid,79.3,82.5,61.1,62.4,12.7,2.83,3,0,1
+STD11394,22,Teknik Industri,Online,78.1,72.2,87.7,70.0,15.8,3.05,1,0,0
+STD11395,18,Informatika,Tatap Muka,82.7,69.6,91.3,66.2,4.7,3.19,3,0,0
+STD11396,21,Sistem Informasi,Online,82.3,73.0,89.3,35.3,14.1,2.7,3,1,0
+STD11397,18,Teknik Industri,Tatap Muka,71.5,74.9,64.3,73.7,6.6,2.81,2,0,0
+STD11398,18,Sistem Informasi,Hybrid,90.0,54.1,56.6,69.4,11.7,3.38,1,0,1
+STD11399,21,Informatika,Tatap Muka,72.2,80.5,87.9,89.8,27.1,3.49,1,1,1
+STD11400,23,Informatika,Tatap Muka,79.8,69.6,77.6,72.1,13.5,3.03,2,1,0
+STD11401,25,Informatika,Online,79.0,90.1,74.6,54.4,7.7,2.46,2,0,0
+STD11402,18,Teknik Industri,Tatap Muka,85.6,82.1,61.1,68.4,14.0,2.87,1,0,0
+STD11403,19,Informatika,Online,60.8,89.0,76.0,42.7,9.4,2.35,2,1,0
+STD11404,21,Informatika,Tatap Muka,90.9,62.9,54.8,55.0,7.2,3.03,1,0,0
+STD11405,22,Informatika,Hybrid,75.2,70.5,78.9,80.9,22.5,3.11,3,1,0
+STD11406,25,Teknik Industri,Online,94.2,60.1,89.3,68.5,17.3,2.88,6,0,0
+STD11407,23,Informatika,Tatap Muka,77.2,66.5,92.8,84.9,13.7,3.11,2,1,1
+STD11408,22,Teknik Industri,Online,81.5,90.0,79.9,44.5,10.0,3.19,0,1,0
+STD11409,18,Sistem Informasi,Hybrid,100.0,92.8,50.7,68.6,10.4,3.12,2,1,1
+STD11410,18,Teknik Industri,Hybrid,79.2,61.2,72.8,65.3,19.7,2.46,1,0,0
+STD11411,19,Teknik Industri,,94.4,69.5,100.0,85.4,,2.89,2,1,1
+STD11412,23,Teknik Industri,Hybrid,82.4,74.1,57.8,81.4,1.0,3.18,3,0,0
+STD11413,20,Teknik Industri,Hybrid,86.2,82.0,69.2,81.0,24.1,3.71,4,0,1
+STD11414,19,Informatika,Hybrid,82.7,53.9,89.8,93.6,,2.88,2,1,1
+STD11415,23,Teknik Industri,Tatap Muka,90.5,55.8,78.6,66.8,13.7,3.25,0,0,1
+STD11416,24,Sistem Informasi,Tatap Muka,75.1,80.9,100.0,90.7,17.4,3.4,2,1,0
+STD11417,21,Sistem Informasi,Online,72.2,51.6,59.7,57.4,14.3,2.91,3,0,0
+STD11418,25,Teknik Industri,Tatap Muka,75.6,69.6,56.1,56.9,15.7,3.52,1,0,0
+STD11419,23,Teknik Industri,Hybrid,83.0,76.9,87.1,82.5,9.9,3.54,4,0,0
+STD11420,23,Sistem Informasi,Online,79.8,80.0,53.3,50.9,5.9,3.62,3,0,0
+STD11421,24,Sistem Informasi,Tatap Muka,89.1,73.3,67.2,80.0,13.4,3.21,3,0,1
+STD11422,19,Sistem Informasi,Tatap Muka,95.0,70.6,69.1,73.4,19.2,4.0,0,0,1
+STD11423,24,Informatika,Hybrid,72.2,85.1,84.5,87.0,8.8,2.72,3,1,0
+STD11424,25,Informatika,Tatap Muka,74.7,78.4,78.6,71.2,8.4,3.96,3,1,0
+STD11425,25,Informatika,Hybrid,67.6,67.2,76.4,72.8,18.1,3.35,2,1,1
+STD11426,22,Informatika,Hybrid,100.0,75.5,64.4,79.1,9.7,3.6,0,0,1
+STD11427,24,Informatika,Hybrid,85.0,79.6,87.0,62.7,9.9,2.86,3,0,0
+STD11428,25,Teknik Industri,Tatap Muka,86.8,95.6,100.0,62.1,10.1,3.38,0,1,0
+STD11429,24,Informatika,Hybrid,68.6,84.4,79.7,78.6,11.7,3.64,0,0,1
+STD11430,25,Teknik Industri,Hybrid,82.0,89.6,71.4,71.6,4.1,2.51,2,0,0
+STD11431,24,Sistem Informasi,Tatap Muka,87.1,67.7,51.8,66.3,9.3,2.93,2,1,0
+STD11432,21,Informatika,Hybrid,79.5,68.7,61.1,70.8,13.2,2.04,2,0,0
+STD11433,23,Informatika,Online,92.8,72.2,67.0,94.3,13.1,2.92,1,1,0
+STD11434,21,Informatika,Hybrid,100.0,73.3,62.5,65.8,17.8,2.63,2,0,1
+STD11435,24,Teknik Industri,Hybrid,72.5,62.9,69.8,65.4,21.2,2.9,3,0,0
+STD11436,24,Informatika,Tatap Muka,71.8,90.2,94.9,48.1,19.6,4.0,0,0,1
+STD11437,25,Sistem Informasi,Tatap Muka,73.2,85.6,87.5,71.4,16.6,3.77,1,1,0
+STD11438,22,Teknik Industri,Tatap Muka,98.1,71.3,67.8,81.2,11.3,2.35,4,0,0
+STD11439,21,Teknik Industri,Tatap Muka,92.4,82.7,53.1,83.7,8.9,3.25,4,1,0
+STD11440,19,Informatika,Online,80.6,77.7,88.7,73.5,12.1,3.36,2,0,1
+STD11441,23,Informatika,Tatap Muka,82.4,83.6,69.3,85.4,14.9,2.85,3,1,1
+STD11442,22,Informatika,Online,73.8,58.9,45.8,82.2,16.1,3.08,1,0,0
+STD11443,22,Informatika,Tatap Muka,90.9,73.3,80.0,87.6,15.1,3.12,2,0,1
+STD11444,23,Informatika,Tatap Muka,,74.3,84.4,85.8,11.4,2.39,2,1,0
+STD11445,24,Sistem Informasi,Tatap Muka,79.4,82.5,36.0,94.0,15.9,2.54,1,1,0
+STD11446,19,Teknik Industri,Tatap Muka,88.1,67.5,58.5,69.6,18.3,3.08,0,1,1
+STD11447,21,Sistem Informasi,Hybrid,80.1,45.0,68.5,53.4,16.4,3.04,1,0,0
+STD11448,23,Sistem Informasi,Online,79.7,62.0,80.3,81.3,11.8,2.68,2,1,0
+STD11449,24,Informatika,Online,82.1,74.3,62.8,82.9,7.8,2.64,4,0,0
+STD11450,24,Teknik Industri,Tatap Muka,90.0,75.8,58.4,94.0,7.7,2.96,2,1,1
+STD11451,24,Sistem Informasi,Hybrid,98.5,95.2,80.2,89.9,8.6,3.4,1,0,0
+STD11452,24,Teknik Industri,Tatap Muka,87.9,82.0,63.4,99.2,13.3,2.97,2,0,0
+STD11453,25,Teknik Industri,Online,90.0,76.0,77.6,80.7,14.6,3.73,1,0,1
+STD11454,22,Informatika,Hybrid,80.0,74.6,54.4,75.2,4.9,2.69,2,0,0
+STD11455,19,Informatika,Tatap Muka,74.9,88.3,51.1,52.6,9.5,3.09,0,0,0
+STD11456,22,Informatika,Tatap Muka,88.5,67.9,80.6,76.3,13.2,2.84,4,1,1
+STD11457,23,Informatika,Tatap Muka,83.7,73.3,73.5,64.3,7.5,3.26,2,1,1
+STD11458,18,Teknik Industri,Tatap Muka,67.8,61.9,82.9,75.0,14.2,2.65,1,0,1
+STD11459,24,Informatika,Online,78.7,92.0,62.5,72.8,10.5,3.87,1,0,0
+STD11460,22,Teknik Industri,Hybrid,81.2,79.7,58.9,78.6,8.4,2.24,1,1,0
+STD11461,25,Sistem Informasi,Online,,66.5,89.1,70.6,12.3,,2,1,0
+STD11462,19,Informatika,Tatap Muka,96.8,73.6,48.7,85.1,14.0,3.04,3,0,1
+STD11463,25,Informatika,Hybrid,86.8,81.1,87.5,33.9,7.8,3.25,6,1,1
+STD11464,21,Sistem Informasi,Tatap Muka,95.7,72.0,88.5,74.7,10.8,3.6,2,0,1
+STD11465,22,Sistem Informasi,Hybrid,84.6,68.6,82.0,88.8,,3.39,0,1,1
+STD11466,23,Informatika,,82.8,67.1,60.4,98.2,8.2,2.67,5,1,0
+STD11467,22,Informatika,Tatap Muka,72.6,79.1,58.6,82.2,3.7,3.27,1,0,0
+STD11468,25,Sistem Informasi,Hybrid,82.1,70.7,67.1,95.6,4.3,3.84,2,0,0
+STD11469,19,Informatika,Tatap Muka,82.1,69.6,51.9,74.4,9.9,2.6,2,1,0
+STD11470,23,Teknik Industri,Hybrid,68.3,,56.5,72.0,5.4,3.95,3,0,0
+STD11471,25,Informatika,Hybrid,76.6,75.9,79.0,79.4,60.0,3.17,2,0,0
+STD11472,19,Informatika,Tatap Muka,78.8,72.8,79.1,72.0,20.3,2.81,5,0,0
+STD11473,20,Sistem Informasi,Online,86.1,71.1,55.3,61.0,,2.6,2,1,0
+STD11474,21,Sistem Informasi,Hybrid,86.6,77.4,79.5,64.8,10.6,2.9,0,0,1
+STD11475,23,Sistem Informasi,Online,76.2,84.0,76.4,56.4,22.7,2.12,1,0,1
+STD11476,25,Informatika,Hybrid,,83.4,91.1,79.4,14.0,2.81,3,1,0
+STD11477,24,Teknik Industri,Hybrid,80.2,81.6,78.0,72.2,10.2,2.88,0,1,0
+STD11478,24,Sistem Informasi,Hybrid,53.3,72.1,84.8,67.0,11.2,2.52,3,0,0
+STD11479,21,Sistem Informasi,Online,77.2,68.2,76.7,64.1,14.1,3.34,2,0,0
+STD11480,23,Informatika,Hybrid,92.8,62.5,83.7,79.1,20.5,2.9,1,0,1
+STD11481,19,Informatika,Tatap Muka,65.2,67.9,52.0,82.9,9.3,2.71,1,0,0
+STD11482,21,Sistem Informasi,Tatap Muka,83.1,75.2,68.3,56.2,8.2,2.85,3,0,0
+STD11483,19,Informatika,Hybrid,97.9,65.6,69.5,54.0,5.1,3.16,1,0,0
+STD11484,18,Sistem Informasi,Tatap Muka,74.4,76.2,66.6,85.4,12.5,3.03,2,0,0
+STD11485,24,Informatika,Tatap Muka,82.0,63.4,76.2,52.7,5.0,2.68,2,0,0
+STD11486,24,Teknik Industri,Tatap Muka,69.0,55.1,78.9,79.7,9.7,3.06,2,0,0
+STD11487,22,Sistem Informasi,Hybrid,98.3,84.8,75.5,94.6,7.5,,1,0,0
+STD11488,18,Teknik Industri,Tatap Muka,81.2,69.3,67.5,94.7,17.4,2.49,1,1,0
+STD11489,18,Sistem Informasi,Hybrid,82.5,65.0,59.7,82.3,9.5,2.87,3,0,0
+STD11490,18,Informatika,Hybrid,95.5,61.9,85.4,81.9,14.0,3.26,1,1,1
+STD11491,23,Teknik Industri,Online,88.6,80.1,74.9,100.0,4.0,3.26,3,0,1
+STD11492,19,Sistem Informasi,Tatap Muka,73.2,91.5,55.7,39.3,12.7,2.9,2,0,0
+STD11493,20,Teknik Industri,Hybrid,75.5,70.2,67.3,65.5,6.0,3.3,2,0,1
+STD11494,24,Informatika,Hybrid,86.9,72.4,45.6,83.9,9.9,2.56,3,0,0
+STD11495,25,Sistem Informasi,Hybrid,75.8,87.9,70.5,67.3,23.1,2.57,4,1,0
+STD11496,24,Teknik Industri,Hybrid,60.8,53.3,67.2,89.4,16.7,2.89,2,0,0
+STD11497,20,Sistem Informasi,Tatap Muka,81.5,98.6,62.0,71.4,11.4,3.67,1,0,0
+STD11498,22,Informatika,Online,67.2,100.0,92.2,73.8,28.0,3.07,1,0,1
+STD11499,19,Sistem Informasi,Tatap Muka,98.2,42.5,53.8,68.2,7.4,2.88,2,0,0
